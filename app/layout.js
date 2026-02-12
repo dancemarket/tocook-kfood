@@ -37,6 +37,7 @@ export default function RootLayout({ children }) {
       <head>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-adsense-account" content="ca-pub-3053267422296088" />
+        <meta name="google-site-verification" content="V7SAE4z8exJl4_6vNttgyczUZVZilvzWSBm9F4lWGMg" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3053267422296088"
