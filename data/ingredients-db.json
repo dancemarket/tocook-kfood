@@ -4,223 +4,260 @@
             "ko": "시래기",
             "en": "Dried Radish Greens",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Siraegi"
         },
         {
             "ko": "무",
             "en": "Korean Radish",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Mu"
         },
         {
             "ko": "굴",
             "en": "Oyster",
             "emoji": "🦪",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gul"
         },
         {
             "ko": "대구",
             "en": "Cod",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Daegu"
         },
         {
             "ko": "꼬막",
             "en": "Cockle",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkomak"
         },
         {
             "ko": "귤",
             "en": "Mandarin",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Gyul"
         },
         {
             "ko": "배추",
             "en": "Napa Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Baechu"
         },
         {
             "ko": "콩나물",
             "en": "Bean Sprouts",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kongnamul"
         },
         {
             "ko": "홍합",
             "en": "Mussel",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Honghap"
         },
         {
             "ko": "명태",
             "en": "Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Myeongtae"
         },
         {
             "ko": "동태",
             "en": "Frozen Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dongtae"
         },
         {
             "ko": "북어",
             "en": "Dried Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Bugeo"
         },
         {
             "ko": "한라봉",
             "en": "Hallabong Orange",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Hallabong"
         },
         {
             "ko": "우엉",
             "en": "Burdock Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ueong"
         },
         {
             "ko": "파",
             "en": "Green Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Pa"
         },
         {
             "ko": "당근",
             "en": "Carrot",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Danggeun"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         },
         {
             "ko": "고등어",
             "en": "Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Godeungeo"
         },
         {
             "ko": "김",
             "en": "Dried Seaweed",
             "emoji": "🟢",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gim"
         },
         {
             "ko": "미역",
             "en": "Wakame Seaweed",
             "emoji": "🟤",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Miyeok"
         },
         {
             "ko": "다시마",
             "en": "Kelp",
             "emoji": "🟢",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dasima"
         },
         {
             "ko": "두부",
             "en": "Tofu",
             "emoji": "🧈",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dubu"
         },
         {
             "ko": "된장",
             "en": "Soybean Paste",
             "emoji": "🫘",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Doenjang"
         },
         {
             "ko": "고구마",
             "en": "Sweet Potato",
             "emoji": "🍠",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Goguma"
         },
         {
             "ko": "차돌박이",
             "en": "Beef Brisket",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Chadolbagi"
         },
         {
             "ko": "사골",
             "en": "Ox Bone",
             "emoji": "🦴",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sagol"
         },
         {
             "ko": "떡",
             "en": "Rice Cake",
             "emoji": "🍡",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Tteok"
         },
         {
             "ko": "양배추",
             "en": "Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangbaechu"
         },
         {
             "ko": "쪽파",
             "en": "Chive",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Jjokpa"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "도미",
             "en": "Sea Bream",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Domi"
         },
         {
             "ko": "아귀",
             "en": "Monkfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Agwi"
         },
         {
             "ko": "삼치",
             "en": "Spanish Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Samchi"
         },
         {
             "ko": "천혜향",
             "en": "Cheonhyehyang Citrus",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Cheonhyehyang"
         },
         {
             "ko": "레드향",
             "en": "Red Citrus",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Redeuhyang"
         },
         {
             "ko": "토란",
             "en": "Taro",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Toran"
         },
         {
             "ko": "연근",
             "en": "Lotus Root",
             "emoji": "🪷",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeongeun"
         }
     ],
     "2": [
@@ -228,223 +265,260 @@
             "ko": "딸기",
             "en": "Strawberry",
             "emoji": "🍓",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Ttalgi"
         },
         {
             "ko": "미나리",
             "en": "Water Parsley",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Minari"
         },
         {
             "ko": "냉이",
             "en": "Shepherd's Purse",
             "emoji": "🌾",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Naengi"
         },
         {
             "ko": "달래",
             "en": "Wild Chive",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dallae"
         },
         {
             "ko": "우엉",
             "en": "Burdock Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ueong"
         },
         {
             "ko": "시금치",
             "en": "Spinach",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sigeumchi"
         },
         {
             "ko": "유채",
             "en": "Rapeseed Greens",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yuchae"
         },
         {
             "ko": "더덕",
             "en": "Deodeok Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deodeok"
         },
         {
             "ko": "봄동",
             "en": "Spring Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bomdong"
         },
         {
             "ko": "쑥",
             "en": "Mugwort",
             "emoji": "🍃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ssuk"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "꼬막",
             "en": "Cockle",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkomak"
         },
         {
             "ko": "굴",
             "en": "Oyster",
             "emoji": "🦪",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gul"
         },
         {
             "ko": "바지락",
             "en": "Clam",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Bajirak"
         },
         {
             "ko": "취나물",
             "en": "Aster Greens",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chwinamul"
         },
         {
             "ko": "무",
             "en": "Korean Radish",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Mu"
         },
         {
             "ko": "대파",
             "en": "Large Green Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Daepa"
         },
         {
             "ko": "배추",
             "en": "Napa Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Baechu"
         },
         {
             "ko": "한라봉",
             "en": "Hallabong Orange",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Hallabong"
         },
         {
             "ko": "참나물",
             "en": "Pimpinella",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chamnamul"
         },
         {
             "ko": "원추리",
             "en": "Daylily",
             "emoji": "🌸",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Wonchuri"
         },
         {
             "ko": "동태",
             "en": "Frozen Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dongtae"
         },
         {
             "ko": "삼겹살",
             "en": "Pork Belly",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Samgyeopsal"
         },
         {
             "ko": "돼지고기",
             "en": "Pork",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dwaejigogi"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "고등어",
             "en": "Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Godeungeo"
         },
         {
             "ko": "두릅",
             "en": "Fatsia Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dureup"
         },
         {
             "ko": "곰취",
             "en": "Ligularia",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gomchwi"
         },
         {
             "ko": "돌나물",
             "en": "Stonecrop",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dolnamul"
         },
         {
             "ko": "머위",
             "en": "Butterbur",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Meowi"
         },
         {
             "ko": "세발나물",
             "en": "Three-Leaf Greens",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sebalnamul"
         },
         {
             "ko": "씀바귀",
             "en": "Ixeris",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sseumbagwi"
         },
         {
             "ko": "방풍나물",
             "en": "Peucedanum",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bangpungnamul"
         },
         {
             "ko": "도다리",
             "en": "Flounder",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dodari"
         },
         {
             "ko": "주꾸미",
             "en": "Small Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jukkumi"
         },
         {
             "ko": "톳",
             "en": "Sea Fusiforme",
             "emoji": "🟤",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Tot"
         },
         {
             "ko": "매생이",
             "en": "Seaweed Fulvescens",
             "emoji": "🟢",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Maesaengi"
         }
     ],
     "3": [
@@ -452,223 +526,260 @@
             "ko": "달래",
             "en": "Wild Chive",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dallae"
         },
         {
             "ko": "냉이",
             "en": "Shepherd's Purse",
             "emoji": "🌾",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Naengi"
         },
         {
             "ko": "두릅",
             "en": "Fatsia Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dureup"
         },
         {
             "ko": "쑥",
             "en": "Mugwort",
             "emoji": "🍃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ssuk"
         },
         {
             "ko": "봄동",
             "en": "Spring Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bomdong"
         },
         {
             "ko": "주꾸미",
             "en": "Small Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jukkumi"
         },
         {
             "ko": "바지락",
             "en": "Clam",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Bajirak"
         },
         {
             "ko": "미나리",
             "en": "Water Parsley",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Minari"
         },
         {
             "ko": "돌미나리",
             "en": "Wild Water Parsley",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dolminari"
         },
         {
             "ko": "취나물",
             "en": "Aster Greens",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chwinamul"
         },
         {
             "ko": "곰취",
             "en": "Ligularia",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gomchwi"
         },
         {
             "ko": "참나물",
             "en": "Pimpinella",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chamnamul"
         },
         {
             "ko": "돌나물",
             "en": "Stonecrop",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dolnamul"
         },
         {
             "ko": "머위",
             "en": "Butterbur",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Meowi"
         },
         {
             "ko": "원추리",
             "en": "Daylily",
             "emoji": "🌸",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Wonchuri"
         },
         {
             "ko": "씀바귀",
             "en": "Ixeris",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sseumbagwi"
         },
         {
             "ko": "방풍나물",
             "en": "Peucedanum",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bangpungnamul"
         },
         {
             "ko": "도다리",
             "en": "Flounder",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dodari"
         },
         {
             "ko": "키조개",
             "en": "Pen Shell",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kijogae"
         },
         {
             "ko": "꽃게",
             "en": "Blue Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkotge"
         },
         {
             "ko": "멍게",
             "en": "Sea Squirt",
             "emoji": "🧡",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Meongge"
         },
         {
             "ko": "도미",
             "en": "Sea Bream",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Domi"
         },
         {
             "ko": "꼬시래기",
             "en": "Sea Staghorn",
             "emoji": "🟢",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkosiraegi"
         },
         {
             "ko": "유채",
             "en": "Rapeseed Greens",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yuchae"
         },
         {
             "ko": "비타민",
             "en": "Vitamin Greens",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bitamin"
         },
         {
             "ko": "세발나물",
             "en": "Three-Leaf Greens",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sebalnamul"
         },
         {
             "ko": "고들빼기",
             "en": "Korean Lettuce",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Godeulppaegi"
         },
         {
             "ko": "참두릅",
             "en": "Aralia Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chamdureup"
         },
         {
             "ko": "엄나무순",
             "en": "Kalopanax Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Eomnamu-sun"
         },
         {
             "ko": "음나무순",
             "en": "Angelica Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Eumnamu-sun"
         },
         {
             "ko": "딸기",
             "en": "Strawberry",
             "emoji": "🍓",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Ttalgi"
         },
         {
             "ko": "시금치",
             "en": "Spinach",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sigeumchi"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "문어",
             "en": "Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Muneo"
         },
         {
             "ko": "조기",
             "en": "Croaker",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jogi"
         }
     ],
     "4": [
@@ -676,223 +787,260 @@
             "ko": "두릅",
             "en": "Fatsia Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dureup"
         },
         {
             "ko": "미나리",
             "en": "Water Parsley",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Minari"
         },
         {
             "ko": "주꾸미",
             "en": "Small Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jukkumi"
         },
         {
             "ko": "멍게",
             "en": "Sea Squirt",
             "emoji": "🧡",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Meongge"
         },
         {
             "ko": "취나물",
             "en": "Aster Greens",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chwinamul"
         },
         {
             "ko": "더덕",
             "en": "Deodeok Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deodeok"
         },
         {
             "ko": "도다리",
             "en": "Flounder",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dodari"
         },
         {
             "ko": "참나물",
             "en": "Pimpinella",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Chamnamul"
         },
         {
             "ko": "쑥",
             "en": "Mugwort",
             "emoji": "🍃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ssuk"
         },
         {
             "ko": "고사리",
             "en": "Bracken Fern",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gosari"
         },
         {
             "ko": "죽순",
             "en": "Bamboo Shoot",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Juksun"
         },
         {
             "ko": "원추리",
             "en": "Daylily",
             "emoji": "🌸",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Wonchuri"
         },
         {
             "ko": "냉이",
             "en": "Shepherd's Purse",
             "emoji": "🌾",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Naengi"
         },
         {
             "ko": "방풍나물",
             "en": "Peucedanum",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bangpungnamul"
         },
         {
             "ko": "달래",
             "en": "Wild Chive",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dallae"
         },
         {
             "ko": "곰취",
             "en": "Ligularia",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gomchwi"
         },
         {
             "ko": "키조개",
             "en": "Pen Shell",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kijogae"
         },
         {
             "ko": "꽃게",
             "en": "Blue Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkotge"
         },
         {
             "ko": "광어",
             "en": "Flatfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gwangeo"
         },
         {
             "ko": "조기",
             "en": "Croaker",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jogi"
         },
         {
             "ko": "병어",
             "en": "Butterfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Byeongeo"
         },
         {
             "ko": "소라",
             "en": "Turban Shell",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Sora"
         },
         {
             "ko": "해삼",
             "en": "Sea Cucumber",
             "emoji": "🌊",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Haesam"
         },
         {
             "ko": "참외",
             "en": "Korean Melon",
             "emoji": "🍈",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Chamoe"
         },
         {
             "ko": "양배추",
             "en": "Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangbaechu"
         },
         {
             "ko": "상추",
             "en": "Lettuce",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sangchu"
         },
         {
             "ko": "아스파라거스",
             "en": "Asparagus",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Aseparagaseu"
         },
         {
             "ko": "비타민",
             "en": "Vitamin Greens",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Bitamin"
         },
         {
             "ko": "엄나무순",
             "en": "Kalopanax Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Eomnamu-sun"
         },
         {
             "ko": "두충나물",
             "en": "Eucommia Greens",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Duchungnamul"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "삼겹살",
             "en": "Pork Belly",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Samgyeopsal"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "문어",
             "en": "Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Muneo"
         },
         {
             "ko": "오징어",
             "en": "Squid",
             "emoji": "🦑",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Ojingeo"
         },
         {
             "ko": "미역",
             "en": "Wakame Seaweed",
             "emoji": "🟤",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Miyeok"
         },
         {
             "ko": "씀바귀",
             "en": "Ixeris",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sseumbagwi"
         }
     ],
     "5": [
@@ -900,223 +1048,260 @@
             "ko": "매실",
             "en": "Green Plum",
             "emoji": "🟢",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Maesil"
         },
         {
             "ko": "양배추",
             "en": "Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangbaechu"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         },
         {
             "ko": "마늘종",
             "en": "Garlic Scapes",
             "emoji": "🧄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Maneul-jong"
         },
         {
             "ko": "꽃게",
             "en": "Blue Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkotge"
         },
         {
             "ko": "참외",
             "en": "Korean Melon",
             "emoji": "🍈",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Chamoe"
         },
         {
             "ko": "완두콩",
             "en": "Green Peas",
             "emoji": "🫛",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Wandukong"
         },
         {
             "ko": "아스파라거스",
             "en": "Asparagus",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Aseparagaseu"
         },
         {
             "ko": "두릅",
             "en": "Fatsia Shoots",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dureup"
         },
         {
             "ko": "오이",
             "en": "Cucumber",
             "emoji": "🥒",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oi"
         },
         {
             "ko": "상추",
             "en": "Lettuce",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sangchu"
         },
         {
             "ko": "미나리",
             "en": "Water Parsley",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Minari"
         },
         {
             "ko": "고사리",
             "en": "Bracken Fern",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gosari"
         },
         {
             "ko": "죽순",
             "en": "Bamboo Shoot",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Juksun"
         },
         {
             "ko": "양파",
             "en": "Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangpa"
         },
         {
             "ko": "마늘",
             "en": "Fresh Garlic",
             "emoji": "🧄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Maneul"
         },
         {
             "ko": "깻잎",
             "en": "Perilla Leaf",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kkaennip"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "열무",
             "en": "Young Radish",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeolmu"
         },
         {
             "ko": "쑥갓",
             "en": "Crown Daisy",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ssukgat"
         },
         {
             "ko": "장어",
             "en": "Eel",
             "emoji": "🐍",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jangeo"
         },
         {
             "ko": "멍게",
             "en": "Sea Squirt",
             "emoji": "🧡",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Meongge"
         },
         {
             "ko": "성게",
             "en": "Sea Urchin",
             "emoji": "🟡",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Seongge"
         },
         {
             "ko": "전복",
             "en": "Abalone",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeonbok"
         },
         {
             "ko": "병어",
             "en": "Butterfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Byeongeo"
         },
         {
             "ko": "광어",
             "en": "Flatfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gwangeo"
         },
         {
             "ko": "우럭",
             "en": "Rockfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Ureok"
         },
         {
             "ko": "앵두",
             "en": "Cherry",
             "emoji": "🍒",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Aengdu"
         },
         {
             "ko": "딸기",
             "en": "Strawberry",
             "emoji": "🍓",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Ttalgi"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "오리고기",
             "en": "Duck",
             "emoji": "🦆",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Origogi"
         },
         {
             "ko": "삼겹살",
             "en": "Pork Belly",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Samgyeopsal"
         },
         {
             "ko": "콩나물",
             "en": "Bean Sprouts",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kongnamul"
         },
         {
             "ko": "비트",
             "en": "Beet",
             "emoji": "🟣",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Biteu"
         },
         {
             "ko": "미역",
             "en": "Wakame Seaweed",
             "emoji": "🟤",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Miyeok"
         },
         {
             "ko": "다시마",
             "en": "Kelp",
             "emoji": "🟢",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dasima"
         }
     ],
     "6": [
@@ -1124,223 +1309,260 @@
             "ko": "매실",
             "en": "Green Plum",
             "emoji": "🟢",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Maesil"
         },
         {
             "ko": "수박",
             "en": "Watermelon",
             "emoji": "🍉",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Subak"
         },
         {
             "ko": "복분자",
             "en": "Black Raspberry",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bokbunja"
         },
         {
             "ko": "오이",
             "en": "Cucumber",
             "emoji": "🥒",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oi"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         },
         {
             "ko": "자두",
             "en": "Plum",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Jadu"
         },
         {
             "ko": "깻잎",
             "en": "Perilla Leaf",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kkaennip"
         },
         {
             "ko": "상추",
             "en": "Lettuce",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sangchu"
         },
         {
             "ko": "참외",
             "en": "Korean Melon",
             "emoji": "🍈",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Chamoe"
         },
         {
             "ko": "열무",
             "en": "Young Radish",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeolmu"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "애호박",
             "en": "Korean Zucchini",
             "emoji": "🎃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Aehobak"
         },
         {
             "ko": "고추",
             "en": "Chili Pepper",
             "emoji": "🌶️",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gochu"
         },
         {
             "ko": "양파",
             "en": "Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangpa"
         },
         {
             "ko": "마늘",
             "en": "Fresh Garlic",
             "emoji": "🧄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Maneul"
         },
         {
             "ko": "옥수수",
             "en": "Corn",
             "emoji": "🌽",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oksusu"
         },
         {
             "ko": "토마토",
             "en": "Tomato",
             "emoji": "🍅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Tomato"
         },
         {
             "ko": "살구",
             "en": "Apricot",
             "emoji": "🍑",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Salgu"
         },
         {
             "ko": "체리",
             "en": "Cherry",
             "emoji": "🍒",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Cheri"
         },
         {
             "ko": "블루베리",
             "en": "Blueberry",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Beulluberi"
         },
         {
             "ko": "장어",
             "en": "Eel",
             "emoji": "🐍",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jangeo"
         },
         {
             "ko": "전복",
             "en": "Abalone",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeonbok"
         },
         {
             "ko": "성게",
             "en": "Sea Urchin",
             "emoji": "🟡",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Seongge"
         },
         {
             "ko": "민어",
             "en": "Croaker Fish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Mineo"
         },
         {
             "ko": "농어",
             "en": "Sea Bass",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Nongeo"
         },
         {
             "ko": "문어",
             "en": "Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Muneo"
         },
         {
             "ko": "오징어",
             "en": "Squid",
             "emoji": "🦑",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Ojingeo"
         },
         {
             "ko": "새우",
             "en": "Shrimp",
             "emoji": "🦐",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Saeu"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "오리고기",
             "en": "Duck",
             "emoji": "🦆",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Origogi"
         },
         {
             "ko": "삼겹살",
             "en": "Pork Belly",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Samgyeopsal"
         },
         {
             "ko": "쑥갓",
             "en": "Crown Daisy",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ssukgat"
         },
         {
             "ko": "풋고추",
             "en": "Green Pepper",
             "emoji": "🫑",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Putgochu"
         },
         {
             "ko": "콩",
             "en": "Soybean",
             "emoji": "🫘",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kong"
         },
         {
             "ko": "팥",
             "en": "Red Bean",
             "emoji": "🟤",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Pat"
         },
         {
             "ko": "비트",
             "en": "Beet",
             "emoji": "🟣",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Biteu"
         },
         {
             "ko": "파프리카",
             "en": "Bell Pepper",
             "emoji": "🫑",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Papeurika"
         }
     ],
     "7": [
@@ -1348,223 +1570,260 @@
             "ko": "옥수수",
             "en": "Corn",
             "emoji": "🌽",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oksusu"
         },
         {
             "ko": "복숭아",
             "en": "Peach",
             "emoji": "🍑",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Boksunga"
         },
         {
             "ko": "고추",
             "en": "Chili Pepper",
             "emoji": "🌶️",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gochu"
         },
         {
             "ko": "블루베리",
             "en": "Blueberry",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Beulluberi"
         },
         {
             "ko": "콩나물",
             "en": "Bean Sprouts",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kongnamul"
         },
         {
             "ko": "호박",
             "en": "Zucchini",
             "emoji": "🎃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Hobak"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "수박",
             "en": "Watermelon",
             "emoji": "🍉",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Subak"
         },
         {
             "ko": "참외",
             "en": "Korean Melon",
             "emoji": "🍈",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Chamoe"
         },
         {
             "ko": "자두",
             "en": "Plum",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Jadu"
         },
         {
             "ko": "깻잎",
             "en": "Perilla Leaf",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kkaennip"
         },
         {
             "ko": "가지",
             "en": "Eggplant",
             "emoji": "🍆",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gaji"
         },
         {
             "ko": "토마토",
             "en": "Tomato",
             "emoji": "🍅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Tomato"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         },
         {
             "ko": "오이",
             "en": "Cucumber",
             "emoji": "🥒",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oi"
         },
         {
             "ko": "열무",
             "en": "Young Radish",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeolmu"
         },
         {
             "ko": "풋고추",
             "en": "Green Pepper",
             "emoji": "🫑",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Putgochu"
         },
         {
             "ko": "애호박",
             "en": "Korean Zucchini",
             "emoji": "🎃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Aehobak"
         },
         {
             "ko": "민어",
             "en": "Croaker Fish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Mineo"
         },
         {
             "ko": "장어",
             "en": "Eel",
             "emoji": "🐍",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jangeo"
         },
         {
             "ko": "전복",
             "en": "Abalone",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeonbok"
         },
         {
             "ko": "새우",
             "en": "Shrimp",
             "emoji": "🦐",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Saeu"
         },
         {
             "ko": "낙지",
             "en": "Baby Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Nakji"
         },
         {
             "ko": "조개",
             "en": "Shellfish",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jogae"
         },
         {
             "ko": "농어",
             "en": "Sea Bass",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Nongeo"
         },
         {
             "ko": "오리고기",
             "en": "Duck",
             "emoji": "🦆",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Origogi"
         },
         {
             "ko": "삼겹살",
             "en": "Pork Belly",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Samgyeopsal"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "파프리카",
             "en": "Bell Pepper",
             "emoji": "🫑",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Papeurika"
         },
         {
             "ko": "양파",
             "en": "Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangpa"
         },
         {
             "ko": "쑥갓",
             "en": "Crown Daisy",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ssukgat"
         },
         {
             "ko": "상추",
             "en": "Lettuce",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sangchu"
         },
         {
             "ko": "셀러리",
             "en": "Celery",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Selleori"
         },
         {
             "ko": "완두콩",
             "en": "Green Peas",
             "emoji": "🫛",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Wandukong"
         },
         {
             "ko": "강낭콩",
             "en": "Kidney Bean",
             "emoji": "🫘",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gangnangkong"
         },
         {
             "ko": "매실",
             "en": "Green Plum",
             "emoji": "🟢",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Maesil"
         }
     ],
     "8": [
@@ -1572,223 +1831,260 @@
             "ko": "가지",
             "en": "Eggplant",
             "emoji": "🍆",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gaji"
         },
         {
             "ko": "고추",
             "en": "Chili Pepper",
             "emoji": "🌶️",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gochu"
         },
         {
             "ko": "토마토",
             "en": "Tomato",
             "emoji": "🍅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Tomato"
         },
         {
             "ko": "전복",
             "en": "Abalone",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeonbok"
         },
         {
             "ko": "포도",
             "en": "Grape",
             "emoji": "🍇",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Podo"
         },
         {
             "ko": "깻잎",
             "en": "Perilla Leaf",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kkaennip"
         },
         {
             "ko": "풋고추",
             "en": "Green Pepper",
             "emoji": "🫑",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Putgochu"
         },
         {
             "ko": "열무",
             "en": "Young Radish",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeolmu"
         },
         {
             "ko": "복숭아",
             "en": "Peach",
             "emoji": "🍑",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Boksunga"
         },
         {
             "ko": "수박",
             "en": "Watermelon",
             "emoji": "🍉",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Subak"
         },
         {
             "ko": "옥수수",
             "en": "Corn",
             "emoji": "🌽",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oksusu"
         },
         {
             "ko": "호박",
             "en": "Zucchini",
             "emoji": "🎃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Hobak"
         },
         {
             "ko": "오이",
             "en": "Cucumber",
             "emoji": "🥒",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Oi"
         },
         {
             "ko": "참외",
             "en": "Korean Melon",
             "emoji": "🍈",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Chamoe"
         },
         {
             "ko": "무화과",
             "en": "Fig",
             "emoji": "🟤",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Muhwagwa"
         },
         {
             "ko": "자두",
             "en": "Plum",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Jadu"
         },
         {
             "ko": "블루베리",
             "en": "Blueberry",
             "emoji": "🫐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Beulluberi"
         },
         {
             "ko": "배",
             "en": "Korean Pear",
             "emoji": "🍐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bae"
         },
         {
             "ko": "민어",
             "en": "Croaker Fish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Mineo"
         },
         {
             "ko": "장어",
             "en": "Eel",
             "emoji": "🐍",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jangeo"
         },
         {
             "ko": "새우",
             "en": "Shrimp",
             "emoji": "🦐",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Saeu"
         },
         {
             "ko": "낙지",
             "en": "Baby Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Nakji"
         },
         {
             "ko": "전어",
             "en": "Shad",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeoneo"
         },
         {
             "ko": "꽃게",
             "en": "Blue Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkotge"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "삼겹살",
             "en": "Pork Belly",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Samgyeopsal"
         },
         {
             "ko": "오리고기",
             "en": "Duck",
             "emoji": "🦆",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Origogi"
         },
         {
             "ko": "양파",
             "en": "Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangpa"
         },
         {
             "ko": "고구마",
             "en": "Sweet Potato",
             "emoji": "🍠",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Goguma"
         },
         {
             "ko": "파프리카",
             "en": "Bell Pepper",
             "emoji": "🫑",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Papeurika"
         },
         {
             "ko": "미역",
             "en": "Wakame Seaweed",
             "emoji": "🟤",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Miyeok"
         },
         {
             "ko": "들깨",
             "en": "Perilla Seeds",
             "emoji": "🟤",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deulkkae"
         },
         {
             "ko": "강낭콩",
             "en": "Kidney Bean",
             "emoji": "🫘",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gangnangkong"
         },
         {
             "ko": "감",
             "en": "Persimmon",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Gam"
         },
         {
             "ko": "대추",
             "en": "Jujube",
             "emoji": "🔴",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Daechu"
         },
         {
             "ko": "도라지",
             "en": "Bellflower Root",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Doraji"
         }
     ],
     "9": [
@@ -1796,223 +2092,260 @@
             "ko": "배",
             "en": "Korean Pear",
             "emoji": "🍐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bae"
         },
         {
             "ko": "고구마",
             "en": "Sweet Potato",
             "emoji": "🍠",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Goguma"
         },
         {
             "ko": "버섯",
             "en": "Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Beoseot"
         },
         {
             "ko": "대추",
             "en": "Jujube",
             "emoji": "🔴",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Daechu"
         },
         {
             "ko": "새우",
             "en": "Shrimp",
             "emoji": "🦐",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Saeu"
         },
         {
             "ko": "밤",
             "en": "Chestnut",
             "emoji": "🌰",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bam"
         },
         {
             "ko": "은행",
             "en": "Ginkgo Nut",
             "emoji": "🟡",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Eunhaeng"
         },
         {
             "ko": "연근",
             "en": "Lotus Root",
             "emoji": "🪷",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeongeun"
         },
         {
             "ko": "사과",
             "en": "Apple",
             "emoji": "🍎",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Sagwa"
         },
         {
             "ko": "감",
             "en": "Persimmon",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Gam"
         },
         {
             "ko": "포도",
             "en": "Grape",
             "emoji": "🍇",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Podo"
         },
         {
             "ko": "무화과",
             "en": "Fig",
             "emoji": "🟤",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Muhwagwa"
         },
         {
             "ko": "호두",
             "en": "Walnut",
             "emoji": "🌰",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Hodu"
         },
         {
             "ko": "잣",
             "en": "Pine Nut",
             "emoji": "🟤",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Jat"
         },
         {
             "ko": "토란",
             "en": "Taro",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Toran"
         },
         {
             "ko": "도라지",
             "en": "Bellflower Root",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Doraji"
         },
         {
             "ko": "고등어",
             "en": "Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Godeungeo"
         },
         {
             "ko": "꽃게",
             "en": "Blue Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkotge"
         },
         {
             "ko": "전어",
             "en": "Shad",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeoneo"
         },
         {
             "ko": "갈치",
             "en": "Hairtail Fish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Galchi"
         },
         {
             "ko": "대하",
             "en": "King Prawn",
             "emoji": "🦐",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Daeha"
         },
         {
             "ko": "전복",
             "en": "Abalone",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeonbok"
         },
         {
             "ko": "낙지",
             "en": "Baby Octopus",
             "emoji": "🐙",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Nakji"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "돼지고기",
             "en": "Pork",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dwaejigogi"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "송이버섯",
             "en": "Pine Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Songibeoset"
         },
         {
             "ko": "표고버섯",
             "en": "Shiitake Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Pyogobeoset"
         },
         {
             "ko": "느타리버섯",
             "en": "Oyster Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Neutaribeoset"
         },
         {
             "ko": "팽이버섯",
             "en": "Enoki Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Paengibeoset"
         },
         {
             "ko": "새송이버섯",
             "en": "King Oyster Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Saesongibeoset"
         },
         {
             "ko": "무",
             "en": "Korean Radish",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Mu"
         },
         {
             "ko": "가지",
             "en": "Eggplant",
             "emoji": "🍆",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gaji"
         },
         {
             "ko": "콩",
             "en": "Soybean",
             "emoji": "🫘",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kong"
         },
         {
             "ko": "들깨",
             "en": "Perilla Seeds",
             "emoji": "🟤",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deulkkae"
         },
         {
             "ko": "브로콜리",
             "en": "Broccoli",
             "emoji": "🥦",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Beurokkolli"
         },
         {
             "ko": "당근",
             "en": "Carrot",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Danggeun"
         }
     ],
     "10": [
@@ -2020,223 +2353,260 @@
             "ko": "갈치",
             "en": "Hairtail Fish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Galchi"
         },
         {
             "ko": "꽃게",
             "en": "Blue Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkotge"
         },
         {
             "ko": "사과",
             "en": "Apple",
             "emoji": "🍎",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Sagwa"
         },
         {
             "ko": "감",
             "en": "Persimmon",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Gam"
         },
         {
             "ko": "무",
             "en": "Korean Radish",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Mu"
         },
         {
             "ko": "연근",
             "en": "Lotus Root",
             "emoji": "🪷",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeongeun"
         },
         {
             "ko": "도토리",
             "en": "Acorn",
             "emoji": "🌰",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dotori"
         },
         {
             "ko": "잣",
             "en": "Pine Nut",
             "emoji": "🟤",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Jat"
         },
         {
             "ko": "배",
             "en": "Korean Pear",
             "emoji": "🍐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bae"
         },
         {
             "ko": "밤",
             "en": "Chestnut",
             "emoji": "🌰",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bam"
         },
         {
             "ko": "고구마",
             "en": "Sweet Potato",
             "emoji": "🍠",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Goguma"
         },
         {
             "ko": "대추",
             "en": "Jujube",
             "emoji": "🔴",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Daechu"
         },
         {
             "ko": "은행",
             "en": "Ginkgo Nut",
             "emoji": "🟡",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Eunhaeng"
         },
         {
             "ko": "호두",
             "en": "Walnut",
             "emoji": "🌰",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Hodu"
         },
         {
             "ko": "버섯",
             "en": "Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Beoseot"
         },
         {
             "ko": "표고버섯",
             "en": "Shiitake Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Pyogobeoset"
         },
         {
             "ko": "송이버섯",
             "en": "Pine Mushroom",
             "emoji": "🍄",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Songibeoset"
         },
         {
             "ko": "전어",
             "en": "Shad",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Jeoneo"
         },
         {
             "ko": "대하",
             "en": "King Prawn",
             "emoji": "🦐",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Daeha"
         },
         {
             "ko": "고등어",
             "en": "Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Godeungeo"
         },
         {
             "ko": "삼치",
             "en": "Spanish Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Samchi"
         },
         {
             "ko": "광어",
             "en": "Flatfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gwangeo"
         },
         {
             "ko": "우럭",
             "en": "Rockfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Ureok"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "돼지고기",
             "en": "Pork",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dwaejigogi"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "토란",
             "en": "Taro",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Toran"
         },
         {
             "ko": "당근",
             "en": "Carrot",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Danggeun"
         },
         {
             "ko": "양배추",
             "en": "Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yangbaechu"
         },
         {
             "ko": "배추",
             "en": "Napa Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Baechu"
         },
         {
             "ko": "도라지",
             "en": "Bellflower Root",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Doraji"
         },
         {
             "ko": "시금치",
             "en": "Spinach",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sigeumchi"
         },
         {
             "ko": "더덕",
             "en": "Deodeok Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deodeok"
         },
         {
             "ko": "브로콜리",
             "en": "Broccoli",
             "emoji": "🥦",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Beurokkolli"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         },
         {
             "ko": "콩",
             "en": "Soybean",
             "emoji": "🫘",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kong"
         },
         {
             "ko": "유자",
             "en": "Yuzu",
             "emoji": "🍋",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Yuja"
         }
     ],
     "11": [
@@ -2244,223 +2614,260 @@
             "ko": "배추",
             "en": "Napa Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Baechu"
         },
         {
             "ko": "무",
             "en": "Korean Radish",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Mu"
         },
         {
             "ko": "과메기",
             "en": "Dried Saury",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gwamegi"
         },
         {
             "ko": "유자",
             "en": "Yuzu",
             "emoji": "🍋",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Yuja"
         },
         {
             "ko": "시래기",
             "en": "Dried Radish Greens",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Siraegi"
         },
         {
             "ko": "게",
             "en": "Crab",
             "emoji": "🦀",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Ge"
         },
         {
             "ko": "늙은호박",
             "en": "Pumpkin",
             "emoji": "🎃",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Neulgeunhobak"
         },
         {
             "ko": "당근",
             "en": "Carrot",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Danggeun"
         },
         {
             "ko": "사과",
             "en": "Apple",
             "emoji": "🍎",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Sagwa"
         },
         {
             "ko": "감",
             "en": "Persimmon",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Gam"
         },
         {
             "ko": "밤",
             "en": "Chestnut",
             "emoji": "🌰",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bam"
         },
         {
             "ko": "고구마",
             "en": "Sweet Potato",
             "emoji": "🍠",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Goguma"
         },
         {
             "ko": "배",
             "en": "Korean Pear",
             "emoji": "🍐",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Bae"
         },
         {
             "ko": "대추",
             "en": "Jujube",
             "emoji": "🔴",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Daechu"
         },
         {
             "ko": "고등어",
             "en": "Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Godeungeo"
         },
         {
             "ko": "삼치",
             "en": "Spanish Mackerel",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Samchi"
         },
         {
             "ko": "갈치",
             "en": "Hairtail Fish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Galchi"
         },
         {
             "ko": "대구",
             "en": "Cod",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Daegu"
         },
         {
             "ko": "굴",
             "en": "Oyster",
             "emoji": "🦪",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gul"
         },
         {
             "ko": "꼬막",
             "en": "Cockle",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkomak"
         },
         {
             "ko": "홍합",
             "en": "Mussel",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Honghap"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "돼지고기",
             "en": "Pork",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dwaejigogi"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "연근",
             "en": "Lotus Root",
             "emoji": "🪷",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeongeun"
         },
         {
             "ko": "우엉",
             "en": "Burdock Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ueong"
         },
         {
             "ko": "도라지",
             "en": "Bellflower Root",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Doraji"
         },
         {
             "ko": "브로콜리",
             "en": "Broccoli",
             "emoji": "🥦",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Beurokkolli"
         },
         {
             "ko": "시금치",
             "en": "Spinach",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sigeumchi"
         },
         {
             "ko": "콩나물",
             "en": "Bean Sprouts",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kongnamul"
         },
         {
             "ko": "파",
             "en": "Green Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Pa"
         },
         {
             "ko": "두부",
             "en": "Tofu",
             "emoji": "🧈",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dubu"
         },
         {
             "ko": "토란",
             "en": "Taro",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Toran"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         },
         {
             "ko": "호두",
             "en": "Walnut",
             "emoji": "🌰",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Hodu"
         },
         {
             "ko": "은행",
             "en": "Ginkgo Nut",
             "emoji": "🟡",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Eunhaeng"
         },
         {
             "ko": "더덕",
             "en": "Deodeok Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deodeok"
         }
     ],
     "12": [
@@ -2468,223 +2875,260 @@
             "ko": "시래기",
             "en": "Dried Radish Greens",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Siraegi"
         },
         {
             "ko": "무",
             "en": "Korean Radish",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Mu"
         },
         {
             "ko": "귤",
             "en": "Mandarin",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Gyul"
         },
         {
             "ko": "과메기",
             "en": "Dried Saury",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gwamegi"
         },
         {
             "ko": "굴",
             "en": "Oyster",
             "emoji": "🦪",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gul"
         },
         {
             "ko": "대구",
             "en": "Cod",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Daegu"
         },
         {
             "ko": "우엉",
             "en": "Burdock Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Ueong"
         },
         {
             "ko": "파",
             "en": "Green Onion",
             "emoji": "🧅",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Pa"
         },
         {
             "ko": "배추",
             "en": "Napa Cabbage",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Baechu"
         },
         {
             "ko": "시금치",
             "en": "Spinach",
             "emoji": "🥬",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Sigeumchi"
         },
         {
             "ko": "콩나물",
             "en": "Bean Sprouts",
             "emoji": "🌱",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Kongnamul"
         },
         {
             "ko": "당근",
             "en": "Carrot",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Danggeun"
         },
         {
             "ko": "고구마",
             "en": "Sweet Potato",
             "emoji": "🍠",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Goguma"
         },
         {
             "ko": "사과",
             "en": "Apple",
             "emoji": "🍎",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Sagwa"
         },
         {
             "ko": "꼬막",
             "en": "Cockle",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Kkomak"
         },
         {
             "ko": "홍합",
             "en": "Mussel",
             "emoji": "🐚",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Honghap"
         },
         {
             "ko": "명태",
             "en": "Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Myeongtae"
         },
         {
             "ko": "동태",
             "en": "Frozen Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Dongtae"
         },
         {
             "ko": "북어",
             "en": "Dried Pollock",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Bugeo"
         },
         {
             "ko": "아귀",
             "en": "Monkfish",
             "emoji": "🐟",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Agwi"
         },
         {
             "ko": "한라봉",
             "en": "Hallabong Orange",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Hallabong"
         },
         {
             "ko": "레드향",
             "en": "Red Citrus",
             "emoji": "🍊",
-            "cat": "f"
+            "cat": "f",
+            "rom": "Redeuhyang"
         },
         {
             "ko": "소고기",
             "en": "Beef",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sogogi"
         },
         {
             "ko": "돼지고기",
             "en": "Pork",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dwaejigogi"
         },
         {
             "ko": "닭고기",
             "en": "Chicken",
             "emoji": "🐓",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Dakgogi"
         },
         {
             "ko": "차돌박이",
             "en": "Beef Brisket",
             "emoji": "🥩",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Chadolbagi"
         },
         {
             "ko": "사골",
             "en": "Ox Bone",
             "emoji": "🦴",
-            "cat": "m"
+            "cat": "m",
+            "rom": "Sagol"
         },
         {
             "ko": "연근",
             "en": "Lotus Root",
             "emoji": "🪷",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Yeongeun"
         },
         {
             "ko": "토란",
             "en": "Taro",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Toran"
         },
         {
             "ko": "떡",
             "en": "Rice Cake",
             "emoji": "🍡",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Tteok"
         },
         {
             "ko": "두부",
             "en": "Tofu",
             "emoji": "🧈",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Dubu"
         },
         {
             "ko": "김",
             "en": "Dried Seaweed",
             "emoji": "🟢",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Gim"
         },
         {
             "ko": "미역",
             "en": "Wakame Seaweed",
             "emoji": "🟤",
-            "cat": "s"
+            "cat": "s",
+            "rom": "Miyeok"
         },
         {
             "ko": "도라지",
             "en": "Bellflower Root",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Doraji"
         },
         {
             "ko": "더덕",
             "en": "Deodeok Root",
             "emoji": "🥕",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Deodeok"
         },
         {
             "ko": "부추",
             "en": "Garlic Chives",
             "emoji": "🌿",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Buchu"
         },
         {
             "ko": "감자",
             "en": "Potato",
             "emoji": "🥔",
-            "cat": "v"
+            "cat": "v",
+            "rom": "Gamja"
         }
     ]
 }
