@@ -36,7 +36,12 @@ export default function RootLayout({ children }) {
     <html lang="ko">
       <head>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
+        <meta name="google-adsense-account" content="ca-pub-3053267422296088" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3053267422296088"
+          crossOrigin="anonymous"
+        />
       </head>
       <body>
         <Header />
