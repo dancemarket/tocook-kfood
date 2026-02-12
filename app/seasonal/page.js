@@ -3,27 +3,26 @@ import AdBanner from '@/components/AdBanner';
 import seasonalData from '@/data/seasonal-ingredients.json';
 
 export const metadata = {
-    title: '제철 식재료 | Seasonal Ingredients Guide',
-    description: '월별 한국 제철 식재료 가이드. Monthly Korean seasonal ingredients guide for cooking.',
+    title: 'Seasonal Ingredients Guide | Korean Produce Calendar',
+    description: 'Monthly Korean seasonal ingredients guide. Discover the freshest and most delicious Korean produce for each month.',
 };
 
 export default function SeasonalPage() {
     const months = seasonalData.months;
     const seasonGroups = {
-        spring: { label: '🌸 봄 Spring', months: ['3', '4', '5'] },
-        summer: { label: '☀️ 여름 Summer', months: ['6', '7', '8'] },
-        autumn: { label: '🍂 가을 Autumn', months: ['9', '10', '11'] },
-        winter: { label: '❄️ 겨울 Winter', months: ['12', '1', '2'] },
+        spring: { label: '🌸 Spring', months: ['3', '4', '5'] },
+        summer: { label: '☀️ Summer', months: ['6', '7', '8'] },
+        autumn: { label: '🍂 Autumn', months: ['9', '10', '11'] },
+        winter: { label: '❄️ Winter', months: ['12', '1', '2'] },
     };
 
     return (
         <div className="seasonal-page">
             <div className="container">
                 <div style={{ textAlign: 'center', marginBottom: 'var(--space-4xl)' }}>
-                    <h1>🌿 제철 식재료 가이드</h1>
+                    <h1>🌿 Seasonal Ingredients Guide</h1>
                     <p style={{ color: 'var(--text-muted)', marginTop: 'var(--space-md)', fontSize: '1.05rem' }}>
-                        Korean Seasonal Ingredients Guide<br />
-                        매월 가장 신선하고 맛있는 한국 식재료를 만나보세요
+                        Discover the freshest Korean produce for each month of the year
                     </p>
                 </div>
 
@@ -46,7 +45,7 @@ export default function SeasonalPage() {
                                 <div key={monthNum} className="month-section">
                                     <h3 className="month-title">
                                         <span className="icon">{monthData.icon}</span>
-                                        {monthData.name} ({monthData.nameEn})
+                                        {monthData.nameEn} ({monthData.name})
                                         <span style={{
                                             fontSize: '0.8rem',
                                             color: 'var(--text-muted)',
@@ -65,8 +64,8 @@ export default function SeasonalPage() {
                                                 className="seasonal-item"
                                             >
                                                 <span className="seasonal-emoji">{item.emoji}</span>
-                                                <span className="seasonal-name">{item.name}</span>
-                                                <span className="seasonal-name-en">{item.nameEn}</span>
+                                                <span className="seasonal-name">{item.nameEn}</span>
+                                                <span className="seasonal-name-en">{item.name}</span>
                                             </Link>
                                         ))}
                                     </div>

@@ -15,10 +15,10 @@ export async function generateMetadata({ params }) {
     if (!recipe) return {};
 
     return {
-        title: `${recipe.titleKo} | ${recipe.title}`,
+        title: `${recipe.title} | ${recipe.titleKo}`,
         description: recipe.description,
         openGraph: {
-            title: `${recipe.titleKo} — ${recipe.title}`,
+            title: `${recipe.title} — ${recipe.titleKo}`,
             description: recipe.description,
             type: 'article',
         },
@@ -75,8 +75,8 @@ export default async function RecipeDetailPage({ params }) {
                     {/* Header */}
                     <div className="recipe-detail-header">
                         <span className="recipe-detail-badge">🌿 {recipe.season} · {recipe.mainIngredient}</span>
-                        <h1 className="recipe-detail-title">{recipe.titleKo}</h1>
-                        <p className="recipe-detail-title-en">{recipe.title}</p>
+                        <h1 className="recipe-detail-title">{recipe.title}</h1>
+                        <p className="recipe-detail-title-en" style={{ color: 'var(--text-muted)', fontSize: '1.05rem' }}>{recipe.titleKo}</p>
                         <div className="recipe-detail-meta">
                             <span className="recipe-detail-meta-item">⏱️ {recipe.cookTime}</span>
                             <span className="recipe-detail-meta-item">👨‍🍳 {recipe.difficulty}</span>
@@ -87,7 +87,11 @@ export default async function RecipeDetailPage({ params }) {
 
                     {/* Hero Image */}
                     <div className="recipe-detail-hero">
-                        <span className="emoji">{recipe.emoji || '🍽️'}</span>
+                        {recipe.image ? (
+                            <img src={recipe.image} alt={recipe.title} style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 'var(--radius-xl)' }} />
+                        ) : (
+                            <span className="emoji">{recipe.emoji || '🍽️'}</span>
+                        )}
                     </div>
 
                     {/* Ad Banner */}
@@ -99,7 +103,7 @@ export default async function RecipeDetailPage({ params }) {
                         <aside className="recipe-sidebar">
                             {/* Ingredients */}
                             <div className="ingredients-card">
-                                <h3 className="ingredients-title">🥘 재료 Ingredients</h3>
+                                <h3 className="ingredients-title">🥘 Ingredients</h3>
                                 {recipe.ingredients?.map((item, idx) => (
                                     <div key={idx} className="ingredient-item">
                                         <span className="ingredient-name">{item.name}</span>
@@ -111,21 +115,21 @@ export default async function RecipeDetailPage({ params }) {
                             {/* Nutrition */}
                             {recipe.nutrition && (
                                 <div className="nutrition-card">
-                                    <h3 className="nutrition-title">📊 영양정보 Nutrition</h3>
+                                    <h3 className="nutrition-title">📊 Nutrition</h3>
                                     <div className="nutrition-item">
-                                        <span>칼로리 Calories</span>
+                                        <span>Calories</span>
                                         <span>{recipe.nutrition.calories}</span>
                                     </div>
                                     <div className="nutrition-item">
-                                        <span>단백질 Protein</span>
+                                        <span>Protein</span>
                                         <span>{recipe.nutrition.protein}</span>
                                     </div>
                                     <div className="nutrition-item">
-                                        <span>탄수화물 Carbs</span>
+                                        <span>Carbs</span>
                                         <span>{recipe.nutrition.carbs}</span>
                                     </div>
                                     <div className="nutrition-item">
-                                        <span>지방 Fat</span>
+                                        <span>Fat</span>
                                         <span>{recipe.nutrition.fat}</span>
                                     </div>
                                 </div>
@@ -137,7 +141,7 @@ export default async function RecipeDetailPage({ params }) {
 
                         {/* Steps */}
                         <div className="steps-section">
-                            <h3>📝 조리 방법 Cooking Steps</h3>
+                            <h3>📝 Cooking Steps</h3>
                             {recipe.steps?.map((step, idx) => (
                                 <div key={idx} className="step-item">
                                     <span className="step-number">{idx + 1}</span>
@@ -171,8 +175,8 @@ export default async function RecipeDetailPage({ params }) {
                     {/* Related Recipes */}
                     {relatedRecipes.length > 0 && (
                         <section style={{ marginTop: 'var(--space-4xl)' }}>
-                            <h2 className="section-title">관련 레시피 Related Recipes</h2>
-                            <p className="section-subtitle">비슷한 재료로 만든 다른 요리</p>
+                            <h2 className="section-title">Related Recipes</h2>
+                            <p className="section-subtitle">More dishes with similar ingredients</p>
                             <div className="recipes-grid">
                                 {relatedRecipes.map(r => (
                                     <RecipeCard key={r.slug} recipe={r} />
@@ -184,7 +188,7 @@ export default async function RecipeDetailPage({ params }) {
                     {/* Back to recipes */}
                     <div style={{ textAlign: 'center', marginTop: 'var(--space-3xl)' }}>
                         <Link href="/recipes" className="btn btn-secondary">
-                            ← 레시피 목록으로 Back to Recipes
+                            ← Back to Recipes
                         </Link>
                     </div>
                 </div>

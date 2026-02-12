@@ -24,26 +24,26 @@ export default function Header() {
                 </Link>
 
                 <nav className="nav">
-                    <Link href="/" className="nav-link">홈 Home</Link>
-                    <Link href="/recipes" className="nav-link">레시피 Recipes</Link>
-                    <Link href="/seasonal" className="nav-link">제철 식재료 Seasonal</Link>
-                    <Link href="/about" className="nav-link">소개 About</Link>
+                    <Link href="/" className="nav-link">Home</Link>
+                    <Link href="/recipes" className="nav-link">Recipes</Link>
+                    <Link href="/seasonal" className="nav-link">Seasonal</Link>
+                    <Link href="/about" className="nav-link">About</Link>
                 </nav>
 
                 <button
                     className="mobile-menu-btn"
                     onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-                    aria-label="메뉴 열기"
+                    aria-label="Open menu"
                 >
                     {mobileMenuOpen ? '✕' : '☰'}
                 </button>
             </div>
 
             <div className={`mobile-nav ${mobileMenuOpen ? 'active' : ''}`}>
-                <Link href="/" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>🏠 홈 Home</Link>
-                <Link href="/recipes" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>📖 레시피 Recipes</Link>
-                <Link href="/seasonal" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>🌿 제철 식재료 Seasonal</Link>
-                <Link href="/about" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>💬 소개 About</Link>
+                <Link href="/" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>🏠 Home</Link>
+                <Link href="/recipes" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>📖 Recipes</Link>
+                <Link href="/seasonal" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>🌿 Seasonal</Link>
+                <Link href="/about" className="mobile-nav-link" onClick={() => setMobileMenuOpen(false)}>💬 About</Link>
             </div>
         </header>
     );

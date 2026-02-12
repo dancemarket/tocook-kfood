@@ -4,8 +4,8 @@ import AdBanner from '@/components/AdBanner';
 import { getAllRecipes } from '@/lib/recipes';
 
 export const metadata = {
-    title: '레시피 목록 | All Recipes',
-    description: '한국 제철 식재료를 활용한 모든 레시피를 확인하세요. Browse all Korean seasonal recipes.',
+    title: 'All Recipes | Korean Seasonal Dishes',
+    description: 'Browse all Korean seasonal recipes. Authentic Korean dishes made with fresh seasonal ingredients, updated daily.',
 };
 
 export default function RecipesPage() {
@@ -18,14 +18,13 @@ export default function RecipesPage() {
         <>
             <div className="recipe-list-header">
                 <div className="container">
-                    <h1>📖 레시피 모음 All Recipes</h1>
+                    <h1>📖 All Recipes</h1>
                     <p style={{ color: 'var(--text-muted)', marginTop: 'var(--space-md)' }}>
-                        한국 제철 식재료로 만든 {allRecipes.length}개의 레시피<br />
-                        {allRecipes.length} recipes with Korean seasonal ingredients
+                        {allRecipes.length} authentic Korean recipes with seasonal ingredients
                     </p>
 
                     <div className="filter-bar">
-                        <span className="filter-btn active">전체 All</span>
+                        <span className="filter-btn active">All</span>
                         {seasons.map((season, idx) => (
                             <span key={idx} className="filter-btn">{season}</span>
                         ))}

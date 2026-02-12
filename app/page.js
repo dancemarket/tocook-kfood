@@ -17,28 +17,28 @@ export default function Home() {
       <section className="hero">
         <div className="container hero-content">
           <div className="hero-badge">
-            🌿 {currentSeasonal?.season || '제철 식재료'} Season
+            🌿 {currentSeasonal?.season || 'Seasonal'} Season
           </div>
           <h1 className="hero-title">
             Discover Korean<br />
             <em>Seasonal</em> Cooking
           </h1>
           <p className="hero-description">
-            한국 제철 식재료로 만드는 건강하고 맛있는 요리 레시피를 매일 공유합니다.<br />
-            Fresh, healthy, and delicious Korean recipes updated daily.
+            Fresh, healthy, and delicious Korean recipes updated daily,<br />
+            crafted with seasonal ingredients from Korea&apos;s four seasons.
           </p>
           <div className="hero-stats">
             <div className="hero-stat">
               <span className="hero-stat-number">{totalRecipes}+</span>
-              <span className="hero-stat-label">레시피 Recipes</span>
+              <span className="hero-stat-label">Recipes</span>
             </div>
             <div className="hero-stat">
               <span className="hero-stat-number">12</span>
-              <span className="hero-stat-label">제철 식재료 Seasonal</span>
+              <span className="hero-stat-label">Seasonal Ingredients</span>
             </div>
             <div className="hero-stat">
               <span className="hero-stat-number">365</span>
-              <span className="hero-stat-label">매일 업데이트 Daily</span>
+              <span className="hero-stat-label">Daily Updates</span>
             </div>
           </div>
         </div>
@@ -48,39 +48,43 @@ export default function Home() {
       {todayRecipe && (
         <section className="section">
           <div className="container">
-            <h2 className="section-title">오늘의 레시피 Today&apos;s Recipe</h2>
-            <p className="section-subtitle">매일 새로운 한국 제철 레시피를 만나보세요</p>
+            <h2 className="section-title">Today&apos;s Recipe</h2>
+            <p className="section-subtitle">Discover a new Korean seasonal dish every day</p>
 
             <div className="featured-recipe">
               <div className="featured-image">
-                <span className="emoji">{todayRecipe.emoji || '🍽️'}</span>
+                {todayRecipe.image ? (
+                  <img src={todayRecipe.image} alt={todayRecipe.title} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                ) : (
+                  <span className="emoji">{todayRecipe.emoji || '🍽️'}</span>
+                )}
               </div>
               <div className="featured-content">
-                <span className="featured-tag">⭐ 오늘의 레시피 Today&apos;s Pick</span>
-                <h2 className="featured-title">{todayRecipe.titleKo}</h2>
-                <p className="featured-title-en">{todayRecipe.title}</p>
+                <span className="featured-tag">⭐ Today&apos;s Pick</span>
+                <h2 className="featured-title">{todayRecipe.title}</h2>
+                <p className="featured-title-en" style={{ color: 'var(--text-muted)', fontSize: '0.95rem' }}>{todayRecipe.titleKo}</p>
                 <p className="featured-description">
-                  {todayRecipe.descriptionKo || todayRecipe.description}
+                  {todayRecipe.description}
                 </p>
                 <div className="featured-info">
                   <div className="featured-info-item">
                     <div className="featured-info-icon">⏱️</div>
                     <div className="featured-info-value">{todayRecipe.cookTime}</div>
-                    <div className="featured-info-label">조리시간</div>
+                    <div className="featured-info-label">Cook Time</div>
                   </div>
                   <div className="featured-info-item">
                     <div className="featured-info-icon">👨‍🍳</div>
                     <div className="featured-info-value">{todayRecipe.difficulty}</div>
-                    <div className="featured-info-label">난이도</div>
+                    <div className="featured-info-label">Difficulty</div>
                   </div>
                   <div className="featured-info-item">
                     <div className="featured-info-icon">🍽️</div>
                     <div className="featured-info-value">{todayRecipe.servings}</div>
-                    <div className="featured-info-label">인분</div>
+                    <div className="featured-info-label">Servings</div>
                   </div>
                 </div>
                 <Link href={`/recipes/${todayRecipe.slug}`} className="btn btn-primary">
-                  레시피 보기 View Recipe →
+                  View Recipe →
                 </Link>
               </div>
             </div>
@@ -98,18 +102,18 @@ export default function Home() {
         <section className="section">
           <div className="container">
             <h2 className="section-title">
-              {currentSeasonal.icon} {currentSeasonal.name} 제철 식재료
+              {currentSeasonal.icon} {currentSeasonal.nameEn} Seasonal Ingredients
             </h2>
             <p className="section-subtitle">
-              {currentSeasonal.nameEn} Seasonal Ingredients
+              {currentSeasonal.name}
             </p>
 
             <div className="seasonal-grid">
               {currentSeasonal.ingredients.map((item, idx) => (
                 <Link href={`/recipes?ingredient=${encodeURIComponent(item.name)}`} key={idx} className="seasonal-item">
                   <span className="seasonal-emoji">{item.emoji}</span>
-                  <span className="seasonal-name">{item.name}</span>
-                  <span className="seasonal-name-en">{item.nameEn}</span>
+                  <span className="seasonal-name">{item.nameEn}</span>
+                  <span className="seasonal-name-en">{item.name}</span>
                 </Link>
               ))}
             </div>
@@ -120,8 +124,8 @@ export default function Home() {
       {/* Recent Recipes */}
       <section className="section" style={{ background: 'var(--color-snow)' }}>
         <div className="container">
-          <h2 className="section-title">최근 레시피 Recent Recipes</h2>
-          <p className="section-subtitle">매일 새로운 한국 제철 요리를 만나보세요</p>
+          <h2 className="section-title">Recent Recipes</h2>
+          <p className="section-subtitle">Fresh Korean dishes crafted with seasonal ingredients</p>
 
           <div className="recipes-grid">
             {recentRecipes.map((recipe, idx) => (
@@ -131,7 +135,7 @@ export default function Home() {
 
           <div style={{ textAlign: 'center', marginTop: 'var(--space-3xl)' }}>
             <Link href="/recipes" className="btn btn-primary">
-              모든 레시피 보기 View All Recipes →
+              View All Recipes →
             </Link>
           </div>
         </div>
