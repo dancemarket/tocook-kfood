@@ -2,6 +2,7 @@
 title: "Shepherd's Purse Soybean Paste Soup"
 titleKo: "냉이된장국"
 date: "2026-02-12"
+image: "/images/categories/doenjang-guk.jpg"
 emoji: "🥣"
 description: "A warm, earthy Korean soup made with fresh shepherd's purse and rich soybean paste."
 descriptionKo: "향긋한 냉이와 구수한 된장이 어우러진 봄의 대표 국"

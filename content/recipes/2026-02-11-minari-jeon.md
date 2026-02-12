@@ -2,6 +2,7 @@
 title: "Water Parsley Pancake (Minari-jeon)"
 titleKo: "미나리전"
 date: "2026-02-11"
+image: "/images/categories/jeon.jpg"
 emoji: "🌿"
 description: "Crispy Korean-style savory pancake made with fresh water parsley and seafood."
 descriptionKo: "싱싱한 미나리를 듬뿍 넣어 바삭하게 부친 봄철 별미 전"

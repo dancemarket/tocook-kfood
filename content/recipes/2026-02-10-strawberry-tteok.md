@@ -2,6 +2,7 @@
 title: "Strawberry Rice Cake (Ichigo Daifuku Style)"
 titleKo: "딸기 찹쌀떡"
 date: "2026-02-10"
+image: "/images/categories/salad.jpg"
 emoji: "🍓"
 description: "Soft, chewy rice cake filled with sweet red bean paste and a fresh whole strawberry."
 descriptionKo: "부드러운 찹쌀떡 안에 팥소와 통딸기가 들어간 봄의 대표 간식"
