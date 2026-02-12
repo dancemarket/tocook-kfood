@@ -1,0 +1,41 @@
+name: Daily Recipe Post 🍲
+
+on:
+  schedule:
+    # Run at 00:00 UTC (09:00 KST) every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  publish-recipe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate new recipe
+        run: node scripts/generate-recipe.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "toCook Bot 🍲"
+          git add content/recipes/ data/recipe-pool.json
+          git commit -m "🍽️ New daily recipe: $(date +%Y-%m-%d)"
+          git push

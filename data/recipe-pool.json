@@ -1,0 +1,1499 @@
+[
+  {
+    "id": 1,
+    "published": true,
+    "publishDate": "2026-02-10",
+    "slug": "2026-02-10-strawberry-tteok",
+    "title": "Strawberry Rice Cake (Ichigo Daifuku Style)",
+    "titleKo": "딸기 찹쌀떡",
+    "emoji": "🍓",
+    "description": "Soft, chewy rice cake filled with sweet red bean paste and a fresh whole strawberry.",
+    "descriptionKo": "부드러운 찹쌀떡 안에 팥소와 통딸기가 들어간 봄의 대표 간식",
+    "mainIngredient": "딸기 Strawberry",
+    "mainIngredientKo": "딸기",
+    "season": "겨울/봄",
+    "cookTime": "40분",
+    "difficulty": "보통 Medium",
+    "servings": "8개",
+    "tags": [
+      "딸기",
+      "떡",
+      "디저트",
+      "간식",
+      "봄"
+    ],
+    "ingredients": [
+      {
+        "name": "찹쌀가루 Glutinous rice flour",
+        "amount": "200g"
+      },
+      {
+        "name": "설탕 Sugar",
+        "amount": "40g"
+      },
+      {
+        "name": "물 Water",
+        "amount": "200ml"
+      },
+      {
+        "name": "팥앙금 Red bean paste",
+        "amount": "200g"
+      },
+      {
+        "name": "딸기 Strawberry",
+        "amount": "8개"
+      },
+      {
+        "name": "전분 가루 Starch",
+        "amount": "적당량"
+      }
+    ],
+    "steps": [
+      {
+        "step": "딸기를 깨끗이 씻어 물기를 제거합니다. Wash strawberries and pat dry."
+      },
+      {
+        "step": "팥앙금을 8등분하여 딸기를 감싸줍니다. Divide red bean paste into 8 portions and wrap each strawberry."
+      },
+      {
+        "step": "찹쌀가루에 설탕과 물을 섞어 반죽합니다. Mix glutinous rice flour with sugar and water."
+      },
+      {
+        "step": "전자레인지에서 2분씩 2번, 중간에 저어주며 익힙니다. Microwave for 2 minutes, stir, then 2 more minutes."
+      },
+      {
+        "step": "전분가루를 뿌린 바닥에 떡 반죽을 놓고 8등분합니다. Place dough on starch-dusted surface and divide into 8."
+      },
+      {
+        "step": "반죽을 넓게 펴서 팥 딸기를 감싸 모양을 잡습니다. Flatten each piece and wrap around the bean-strawberry ball."
+      }
+    ],
+    "nutrition": {
+      "calories": "180 kcal",
+      "protein": "3g",
+      "carbs": "38g",
+      "fat": "1g"
+    },
+    "tip": "딸기는 꼭지를 떼지 말고 그대로 사용하면 더 예쁩니다. Keep the strawberry stem for a prettier look."
+  },
+  {
+    "id": 2,
+    "published": true,
+    "publishDate": "2026-02-11",
+    "slug": "2026-02-11-minari-jeon",
+    "title": "Water Parsley Pancake (Minari-jeon)",
+    "titleKo": "미나리전",
+    "emoji": "🌿",
+    "description": "Crispy Korean-style savory pancake made with fresh water parsley and seafood.",
+    "descriptionKo": "싱싱한 미나리를 듬뿍 넣어 바삭하게 부친 봄철 별미 전",
+    "mainIngredient": "미나리 Water Parsley",
+    "mainIngredientKo": "미나리",
+    "season": "겨울/봄",
+    "cookTime": "25분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "미나리",
+      "전",
+      "해물",
+      "봄",
+      "바삭"
+    ],
+    "ingredients": [
+      {
+        "name": "미나리 Water parsley",
+        "amount": "200g"
+      },
+      {
+        "name": "부침가루 Pancake flour",
+        "amount": "100g"
+      },
+      {
+        "name": "계란 Egg",
+        "amount": "1개"
+      },
+      {
+        "name": "물 Water",
+        "amount": "80ml"
+      },
+      {
+        "name": "새우 Shrimp",
+        "amount": "100g"
+      },
+      {
+        "name": "소금 Salt",
+        "amount": "약간"
+      },
+      {
+        "name": "식용유 Cooking oil",
+        "amount": "적당량"
+      }
+    ],
+    "steps": [
+      {
+        "step": "미나리를 깨끗이 씻어 5cm 길이로 자릅니다. Wash water parsley and cut into 5cm pieces."
+      },
+      {
+        "step": "부침가루에 물과 계란을 넣고 반죽합니다. Mix pancake flour with water and egg."
+      },
+      {
+        "step": "새우를 손질하고 반죽에 미나리와 함께 섞습니다. Clean shrimp and mix with parsley into the batter."
+      },
+      {
+        "step": "팬에 기름을 두르고 중불에서 노릇하게 부칩니다. Pan-fry in oil over medium heat until golden."
+      },
+      {
+        "step": "뒤집어서 양면을 바삭하게 구워 완성합니다. Flip and cook both sides until crispy."
+      }
+    ],
+    "nutrition": {
+      "calories": "220 kcal",
+      "protein": "12g",
+      "carbs": "28g",
+      "fat": "7g"
+    },
+    "tip": "반죽을 얇게 펴서 부치면 더 바삭합니다. Spread the batter thin for extra crispiness."
+  },
+  {
+    "id": 3,
+    "published": true,
+    "publishDate": "2026-02-12",
+    "slug": "2026-02-12-naengi-doenjang-guk",
+    "title": "Shepherd's Purse Soybean Paste Soup",
+    "titleKo": "냉이된장국",
+    "emoji": "🥣",
+    "description": "A warm, earthy Korean soup made with fresh shepherd's purse and rich soybean paste.",
+    "descriptionKo": "향긋한 냉이와 구수한 된장이 어우러진 봄의 대표 국",
+    "mainIngredient": "냉이 Shepherd's Purse",
+    "mainIngredientKo": "냉이",
+    "season": "겨울/봄",
+    "cookTime": "20분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "냉이",
+      "된장국",
+      "국물요리",
+      "봄",
+      "건강"
+    ],
+    "ingredients": [
+      {
+        "name": "냉이 Shepherd's purse",
+        "amount": "150g"
+      },
+      {
+        "name": "된장 Soybean paste",
+        "amount": "2큰술"
+      },
+      {
+        "name": "두부 Tofu",
+        "amount": "1/2모"
+      },
+      {
+        "name": "대파 Green onion",
+        "amount": "1대"
+      },
+      {
+        "name": "다진마늘 Minced garlic",
+        "amount": "1작은술"
+      },
+      {
+        "name": "멸치다시마 육수 Anchovy kelp broth",
+        "amount": "600ml"
+      }
+    ],
+    "steps": [
+      {
+        "step": "냉이를 깨끗이 다듬어 씻어 준비합니다. Clean and wash shepherd's purse thoroughly."
+      },
+      {
+        "step": "육수를 끓여 된장을 풀어줍니다. Bring broth to boil and dissolve soybean paste."
+      },
+      {
+        "step": "두부를 깍둑 썰어 넣습니다. Dice tofu and add to soup."
+      },
+      {
+        "step": "냉이와 다진마늘을 넣고 5분 더 끓입니다. Add shepherd's purse and garlic, boil 5 more minutes."
+      },
+      {
+        "step": "대파를 송송 썰어 올리고 완성합니다. Top with sliced green onion and serve."
+      }
+    ],
+    "nutrition": {
+      "calories": "120 kcal",
+      "protein": "9g",
+      "carbs": "8g",
+      "fat": "6g"
+    },
+    "tip": "냉이 뿌리까지 넣으면 향이 더 진합니다. Include the roots for a stronger aroma."
+  },
+  {
+    "id": 4,
+    "published": true,
+    "slug": "2026-02-12-dalrae-yangnyeom-jang",
+    "title": "Wild Chive Seasoning Sauce (Dalrae-jang)",
+    "titleKo": "달래양념장",
+    "emoji": "🧅",
+    "description": "A zesty Korean dipping sauce made with wild chives, perfect for spring dishes.",
+    "descriptionKo": "봄 향 가득한 달래로 만든 만능 양념장",
+    "mainIngredient": "달래 Wild Chive",
+    "mainIngredientKo": "달래",
+    "season": "봄",
+    "cookTime": "10분",
+    "difficulty": "쉬움 Easy",
+    "servings": "4인분",
+    "tags": [
+      "달래",
+      "양념장",
+      "소스",
+      "봄",
+      "간편"
+    ],
+    "ingredients": [
+      {
+        "name": "달래 Wild chive",
+        "amount": "100g"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "4큰술"
+      },
+      {
+        "name": "고춧가루 Red pepper flakes",
+        "amount": "1큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "식초 Vinegar",
+        "amount": "1큰술"
+      },
+      {
+        "name": "설탕 Sugar",
+        "amount": "1작은술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1큰술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "달래를 깨끗이 씻어 잘게 썹니다. Wash wild chives and chop finely."
+      },
+      {
+        "step": "간장, 고춧가루, 참기름, 식초, 설탕을 섞습니다. Mix soy sauce, pepper flakes, sesame oil, vinegar, sugar."
+      },
+      {
+        "step": "썰어놓은 달래를 넣고 잘 버무립니다. Add chopped chives and mix well."
+      },
+      {
+        "step": "깨를 뿌려 완성합니다. Sprinkle sesame seeds to finish."
+      }
+    ],
+    "nutrition": {
+      "calories": "45 kcal",
+      "protein": "2g",
+      "carbs": "5g",
+      "fat": "3g"
+    },
+    "tip": "두부, 밥, 비빔밥 등 다양한 음식에 곁들여 드세요. Great with tofu, rice, or bibimbap.",
+    "publishDate": "2026-02-12"
+  },
+  {
+    "id": 5,
+    "published": true,
+    "slug": "2026-02-12-sigeumchi-doenjang-guk",
+    "title": "Spinach Soybean Paste Soup",
+    "titleKo": "시금치된장국",
+    "emoji": "🥬",
+    "description": "Nutritious Korean soup with tender spinach in a savory soybean paste broth.",
+    "descriptionKo": "영양 가득한 시금치와 구수한 된장의 조화로운 국",
+    "mainIngredient": "시금치 Spinach",
+    "mainIngredientKo": "시금치",
+    "season": "겨울/봄",
+    "cookTime": "15분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "시금치",
+      "된장국",
+      "건강",
+      "간편",
+      "겨울"
+    ],
+    "ingredients": [
+      {
+        "name": "시금치 Spinach",
+        "amount": "200g"
+      },
+      {
+        "name": "된장 Soybean paste",
+        "amount": "1.5큰술"
+      },
+      {
+        "name": "두부 Tofu",
+        "amount": "1/4모"
+      },
+      {
+        "name": "대파 Green onion",
+        "amount": "1대"
+      },
+      {
+        "name": "다진마늘 Minced garlic",
+        "amount": "1작은술"
+      },
+      {
+        "name": "멸치다시마 육수 Broth",
+        "amount": "500ml"
+      }
+    ],
+    "steps": [
+      {
+        "step": "시금치를 깨끗이 씻어 먹기 좋은 크기로 자릅니다. Wash spinach and cut into bite-size pieces."
+      },
+      {
+        "step": "육수를 끓여 된장을 풀어줍니다. Boil broth and dissolve soybean paste."
+      },
+      {
+        "step": "두부를 넣고 2분간 끓입니다. Add tofu and boil for 2 minutes."
+      },
+      {
+        "step": "시금치와 마늘을 넣고 2분 더 끓입니다. Add spinach and garlic, boil 2 more minutes."
+      },
+      {
+        "step": "대파를 넣어 마무리합니다. Finish with green onion."
+      }
+    ],
+    "nutrition": {
+      "calories": "95 kcal",
+      "protein": "8g",
+      "carbs": "6g",
+      "fat": "5g"
+    },
+    "tip": "시금치는 오래 끓이면 색이 변하므로 마지막에 넣으세요. Add spinach last to keep its color.",
+    "publishDate": "2026-02-12"
+  },
+  {
+    "id": 6,
+    "published": false,
+    "slug": "strawberry-salad",
+    "title": "Korean Strawberry Salad with Sesame Dressing",
+    "titleKo": "딸기 참깨 샐러드",
+    "emoji": "🥗",
+    "description": "A refreshing Korean-style salad with fresh strawberries and nutty sesame dressing.",
+    "descriptionKo": "새콤달콤한 딸기와 고소한 참깨 드레싱의 봄 샐러드",
+    "mainIngredient": "딸기 Strawberry",
+    "mainIngredientKo": "딸기",
+    "season": "겨울/봄",
+    "cookTime": "15분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "딸기",
+      "샐러드",
+      "건강",
+      "간편",
+      "봄"
+    ],
+    "ingredients": [
+      {
+        "name": "딸기 Strawberry",
+        "amount": "200g"
+      },
+      {
+        "name": "믹스 채소 Mixed greens",
+        "amount": "100g"
+      },
+      {
+        "name": "참깨 Sesame seeds",
+        "amount": "2큰술"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "1큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "식초 Vinegar",
+        "amount": "1큰술"
+      },
+      {
+        "name": "꿀 Honey",
+        "amount": "1큰술"
+      },
+      {
+        "name": "아몬드 Almond",
+        "amount": "20g"
+      }
+    ],
+    "steps": [
+      {
+        "step": "딸기를 씻어 반으로 자릅니다. Wash and halve the strawberries."
+      },
+      {
+        "step": "채소를 깨끗이 씻어 물기를 뺍니다. Wash greens and drain well."
+      },
+      {
+        "step": "참깨, 간장, 참기름, 식초, 꿀로 드레싱을 만듭니다. Make dressing with sesame, soy sauce, sesame oil, vinegar, honey."
+      },
+      {
+        "step": "채소와 딸기를 접시에 담고 드레싱을 뿌립니다. Arrange greens and strawberries, drizzle dressing."
+      },
+      {
+        "step": "아몬드를 올려 완성합니다. Top with almonds."
+      }
+    ],
+    "nutrition": {
+      "calories": "160 kcal",
+      "protein": "4g",
+      "carbs": "18g",
+      "fat": "9g"
+    },
+    "tip": "드레싱은 먹기 직전에 뿌려야 채소가 축 처지지 않아요. Add dressing just before eating."
+  },
+  {
+    "id": 7,
+    "published": false,
+    "slug": "ueong-jorim",
+    "title": "Braised Burdock Root (Ueong Jorim)",
+    "titleKo": "우엉조림",
+    "emoji": "🥕",
+    "description": "Sweet and savory braised burdock root, a classic Korean side dish packed with fiber.",
+    "descriptionKo": "쫄깃하고 달콤짭짤한 우엉조림 반찬",
+    "mainIngredient": "우엉 Burdock Root",
+    "mainIngredientKo": "우엉",
+    "season": "겨울/봄",
+    "cookTime": "30분",
+    "difficulty": "보통 Medium",
+    "servings": "4인분",
+    "tags": [
+      "우엉",
+      "조림",
+      "반찬",
+      "건강",
+      "겨울"
+    ],
+    "ingredients": [
+      {
+        "name": "우엉 Burdock root",
+        "amount": "300g"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "3큰술"
+      },
+      {
+        "name": "설탕 Sugar",
+        "amount": "1.5큰술"
+      },
+      {
+        "name": "물엿 Corn syrup",
+        "amount": "1큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1큰술"
+      },
+      {
+        "name": "물 Water",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      {
+        "step": "우엉을 칼등으로 긁어 껍질을 벗기고 채썹니다. Scrape burdock skin and julienne."
+      },
+      {
+        "step": "식초물에 담가 아린 맛을 빼줍니다. Soak in vinegar water to remove bitterness."
+      },
+      {
+        "step": "팬에 참기름을 두르고 우엉을 볶습니다. Stir-fry burdock in sesame oil."
+      },
+      {
+        "step": "간장, 설탕, 물을 넣고 중불에서 졸입니다. Add soy sauce, sugar, water and simmer."
+      },
+      {
+        "step": "국물이 거의 졸면 물엿을 넣고 윤기나게 볶습니다. When liquid reduces, add syrup and glaze."
+      },
+      {
+        "step": "깨를 뿌려 완성합니다. Sprinkle sesame seeds to finish."
+      }
+    ],
+    "nutrition": {
+      "calories": "130 kcal",
+      "protein": "3g",
+      "carbs": "22g",
+      "fat": "4g"
+    },
+    "tip": "우엉을 미리 식초물에 담가두면 변색을 방지합니다. Soak in vinegar water to prevent browning."
+  },
+  {
+    "id": 8,
+    "published": false,
+    "slug": "minari-kimchi",
+    "title": "Water Parsley Kimchi (Minari Kimchi)",
+    "titleKo": "미나리김치",
+    "emoji": "🌱",
+    "description": "Fresh and aromatic water parsley kimchi, a refreshing spring side dish.",
+    "descriptionKo": "향긋한 미나리로 담근 상큼한 봄 김치",
+    "mainIngredient": "미나리 Water Parsley",
+    "mainIngredientKo": "미나리",
+    "season": "봄",
+    "cookTime": "20분",
+    "difficulty": "보통 Medium",
+    "servings": "4인분",
+    "tags": [
+      "미나리",
+      "김치",
+      "발효식품",
+      "봄",
+      "전통"
+    ],
+    "ingredients": [
+      {
+        "name": "미나리 Water parsley",
+        "amount": "300g"
+      },
+      {
+        "name": "고춧가루 Red pepper flakes",
+        "amount": "2큰술"
+      },
+      {
+        "name": "멸치액젓 Anchovy sauce",
+        "amount": "2큰술"
+      },
+      {
+        "name": "다진마늘 Minced garlic",
+        "amount": "1큰술"
+      },
+      {
+        "name": "매실청 Plum extract",
+        "amount": "1큰술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1큰술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "미나리를 깨끗이 씻어 5cm 길이로 자릅니다. Wash water parsley and cut into 5cm pieces."
+      },
+      {
+        "step": "고춧가루, 액젓, 마늘, 매실청으로 양념을 만듭니다. Make seasoning paste with pepper flakes, fish sauce, garlic, plum extract."
+      },
+      {
+        "step": "미나리에 양념을 골고루 버무립니다. Toss water parsley evenly with seasoning."
+      },
+      {
+        "step": "깨를 뿌려 완성합니다. Sprinkle sesame seeds."
+      },
+      {
+        "step": "1-2일 숙성 후 냉장보관합니다. Ferment 1-2 days then refrigerate."
+      }
+    ],
+    "nutrition": {
+      "calories": "35 kcal",
+      "protein": "2g",
+      "carbs": "5g",
+      "fat": "1g"
+    },
+    "tip": "숙성 시간이 길수록 맛이 깊어집니다. Longer fermentation = deeper flavor."
+  },
+  {
+    "id": 9,
+    "published": false,
+    "slug": "naengi-namul",
+    "title": "Seasoned Shepherd's Purse (Naengi Namul)",
+    "titleKo": "냉이나물무침",
+    "emoji": "🌾",
+    "description": "Simply seasoned shepherd's purse namul - the taste of Korean spring.",
+    "descriptionKo": "봄의 향기를 담은 고소한 냉이나물무침",
+    "mainIngredient": "냉이 Shepherd's Purse",
+    "mainIngredientKo": "냉이",
+    "season": "봄",
+    "cookTime": "15분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "냉이",
+      "나물",
+      "반찬",
+      "봄",
+      "건강"
+    ],
+    "ingredients": [
+      {
+        "name": "냉이 Shepherd's purse",
+        "amount": "200g"
+      },
+      {
+        "name": "된장 Soybean paste",
+        "amount": "1큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "다진마늘 Minced garlic",
+        "amount": "1/2작은술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1작은술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "냉이를 다듬어 뿌리까지 깨끗이 씻습니다. Trim and thoroughly wash shepherd's purse including roots."
+      },
+      {
+        "step": "끓는 물에 소금을 넣고 30초 데칩니다. Blanch in salted boiling water for 30 seconds."
+      },
+      {
+        "step": "찬물에 헹구고 물기를 꽉 짭니다. Rinse in cold water and squeeze dry."
+      },
+      {
+        "step": "된장, 참기름, 마늘을 넣고 조물조물 무칩니다. Season with paste, sesame oil, garlic and toss gently."
+      },
+      {
+        "step": "깨를 뿌려 완성합니다. Sprinkle sesame seeds."
+      }
+    ],
+    "nutrition": {
+      "calories": "65 kcal",
+      "protein": "3g",
+      "carbs": "4g",
+      "fat": "4g"
+    },
+    "tip": "데치는 시간을 짧게 하면 식감이 살아납니다. Keep blanching time short for better texture."
+  },
+  {
+    "id": 10,
+    "published": false,
+    "slug": "dalrae-gimbap",
+    "title": "Wild Chive Gimbap",
+    "titleKo": "달래김밥",
+    "emoji": "🍙",
+    "description": "Spring-flavored Korean seaweed rice roll with fragrant wild chives.",
+    "descriptionKo": "달래 향이 솔솔 나는 봄맞이 특별 김밥",
+    "mainIngredient": "달래 Wild Chive",
+    "mainIngredientKo": "달래",
+    "season": "봄",
+    "cookTime": "35분",
+    "difficulty": "보통 Medium",
+    "servings": "2줄",
+    "tags": [
+      "달래",
+      "김밥",
+      "봄",
+      "도시락",
+      "건강"
+    ],
+    "ingredients": [
+      {
+        "name": "달래 Wild chive",
+        "amount": "100g"
+      },
+      {
+        "name": "밥 Cooked rice",
+        "amount": "2공기"
+      },
+      {
+        "name": "김 Seaweed sheets",
+        "amount": "2장"
+      },
+      {
+        "name": "계란 Egg",
+        "amount": "2개"
+      },
+      {
+        "name": "당근 Carrot",
+        "amount": "1/2개"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "소금 Salt",
+        "amount": "약간"
+      }
+    ],
+    "steps": [
+      {
+        "step": "달래를 깨끗이 씻어 준비합니다. Wash wild chives thoroughly."
+      },
+      {
+        "step": "밥에 참기름과 소금을 넣어 양념합니다. Season rice with sesame oil and salt."
+      },
+      {
+        "step": "계란을 풀어 지단을 부칩니다. Beat eggs and make thin egg sheets."
+      },
+      {
+        "step": "당근을 채 썰어 볶습니다. Julienne and sauté carrot."
+      },
+      {
+        "step": "김 위에 밥을 펴고 달래, 지단, 당근을 넣습니다. Spread rice on seaweed, add chives, egg, carrot."
+      },
+      {
+        "step": "돌돌 말아 먹기 좋게 잘라 완성합니다. Roll tightly and slice into pieces."
+      }
+    ],
+    "nutrition": {
+      "calories": "310 kcal",
+      "protein": "10g",
+      "carbs": "48g",
+      "fat": "9g"
+    },
+    "tip": "달래를 너무 잘게 썰지 마세요. 씹히는 식감이 포인트입니다. Don't chop chives too fine—the texture is key."
+  },
+  {
+    "id": 11,
+    "published": false,
+    "slug": "strawberry-jam",
+    "title": "Homemade Korean Strawberry Jam",
+    "titleKo": "수제 딸기잼",
+    "emoji": "🫙",
+    "description": "Simple, no-additive homemade strawberry jam the Korean way.",
+    "descriptionKo": "첨가물 없이 딸기 본연의 맛을 살린 수제 딸기잼",
+    "mainIngredient": "딸기 Strawberry",
+    "mainIngredientKo": "딸기",
+    "season": "겨울/봄",
+    "cookTime": "45분",
+    "difficulty": "보통 Medium",
+    "servings": "1병",
+    "tags": [
+      "딸기",
+      "잼",
+      "디저트",
+      "보존식",
+      "수제"
+    ],
+    "ingredients": [
+      {
+        "name": "딸기 Strawberry",
+        "amount": "500g"
+      },
+      {
+        "name": "설탕 Sugar",
+        "amount": "200g"
+      },
+      {
+        "name": "레몬즙 Lemon juice",
+        "amount": "2큰술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "딸기를 씻어 꼭지를 떼고 반으로 자릅니다. Wash, hull, and halve strawberries."
+      },
+      {
+        "step": "딸기에 설탕을 뿌려 30분 절입니다. Sprinkle sugar on berries and let sit 30 minutes."
+      },
+      {
+        "step": "약불에서 저어가며 졸입니다. Cook on low heat, stirring frequently."
+      },
+      {
+        "step": "거품을 걷어내고 레몬즙을 넣습니다. Skim foam and add lemon juice."
+      },
+      {
+        "step": "원하는 농도가 되면 불을 끄고 소독된 병에 담습니다. Cook to desired consistency, pour into sterilized jar."
+      }
+    ],
+    "nutrition": {
+      "calories": "40 kcal",
+      "protein": "0g",
+      "carbs": "10g",
+      "fat": "0g"
+    },
+    "tip": "딸기의 60% 정도 설탕을 넣으면 최적입니다. Use 60% of the strawberry weight in sugar for best results."
+  },
+  {
+    "id": 12,
+    "published": false,
+    "slug": "minari-japchae",
+    "title": "Water Parsley Glass Noodle Stir-fry",
+    "titleKo": "미나리잡채",
+    "emoji": "🍝",
+    "description": "A spring twist on classic Korean japchae with fresh water parsley.",
+    "descriptionKo": "봄 미나리를 넣어 향긋하게 만든 특별한 잡채",
+    "mainIngredient": "미나리 Water Parsley",
+    "mainIngredientKo": "미나리",
+    "season": "봄",
+    "cookTime": "30분",
+    "difficulty": "보통 Medium",
+    "servings": "3인분",
+    "tags": [
+      "미나리",
+      "잡채",
+      "봄",
+      "잔치음식",
+      "면"
+    ],
+    "ingredients": [
+      {
+        "name": "당면 Glass noodles",
+        "amount": "200g"
+      },
+      {
+        "name": "미나리 Water parsley",
+        "amount": "150g"
+      },
+      {
+        "name": "소고기 Beef",
+        "amount": "100g"
+      },
+      {
+        "name": "당근 Carrot",
+        "amount": "1/2개"
+      },
+      {
+        "name": "시금치 Spinach",
+        "amount": "100g"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "3큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "2큰술"
+      },
+      {
+        "name": "설탕 Sugar",
+        "amount": "1큰술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "당면을 삶아 찬물에 헹굽니다. Boil glass noodles and rinse in cold water."
+      },
+      {
+        "step": "채소를 각각 볶아 준비합니다. Stir-fry each vegetable separately."
+      },
+      {
+        "step": "소고기를 양념해서 볶습니다. Marinate and stir-fry beef."
+      },
+      {
+        "step": "미나리를 가볍게 볶습니다. Lightly stir-fry water parsley."
+      },
+      {
+        "step": "모든 재료를 합쳐 간장, 참기름으로 양념합니다. Combine all and season with soy sauce and sesame oil."
+      }
+    ],
+    "nutrition": {
+      "calories": "280 kcal",
+      "protein": "12g",
+      "carbs": "42g",
+      "fat": "8g"
+    },
+    "tip": "미나리는 마지막에 살짝만 볶아야 식감이 살아납니다. Add water parsley last for best texture."
+  },
+  {
+    "id": 13,
+    "published": false,
+    "slug": "naengi-gukbap",
+    "title": "Shepherd's Purse Rice Soup (Naengi Gukbap)",
+    "titleKo": "냉이국밥",
+    "emoji": "🍲",
+    "description": "Hearty Korean rice soup with earthy shepherd's purse, perfect comfort food for early spring.",
+    "descriptionKo": "구수한 냉이향이 가득한 따뜻한 봄 국밥",
+    "mainIngredient": "냉이 Shepherd's Purse",
+    "mainIngredientKo": "냉이",
+    "season": "봄",
+    "cookTime": "25분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "냉이",
+      "국밥",
+      "한식",
+      "봄",
+      "위로음식"
+    ],
+    "ingredients": [
+      {
+        "name": "냉이 Shepherd's purse",
+        "amount": "150g"
+      },
+      {
+        "name": "밥 Cooked rice",
+        "amount": "2공기"
+      },
+      {
+        "name": "된장 Soybean paste",
+        "amount": "1.5큰술"
+      },
+      {
+        "name": "계란 Egg",
+        "amount": "2개"
+      },
+      {
+        "name": "대파 Green onion",
+        "amount": "1대"
+      },
+      {
+        "name": "육수 Broth",
+        "amount": "800ml"
+      }
+    ],
+    "steps": [
+      {
+        "step": "냉이를 다듬어 깨끗이 씻습니다. Clean and wash shepherd's purse."
+      },
+      {
+        "step": "육수에 된장을 풀어 끓입니다. Dissolve soybean paste in broth and bring to boil."
+      },
+      {
+        "step": "밥을 넣고 한번 끓입니다. Add rice and let it boil once."
+      },
+      {
+        "step": "냉이를 넣고 계란을 풀어 넣습니다. Add shepherd's purse and drizzle beaten egg."
+      },
+      {
+        "step": "대파를 넣어 완성합니다. Top with green onion."
+      }
+    ],
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "14g",
+      "carbs": "52g",
+      "fat": "8g"
+    },
+    "tip": "계란을 넣고 나서 국자로 저으면 예쁘게 풀어집니다. Gently stir after adding egg for beautiful ribbons."
+  },
+  {
+    "id": 14,
+    "published": false,
+    "slug": "strawberry-smoothie-bowl",
+    "title": "Korean Strawberry Smoothie Bowl",
+    "titleKo": "딸기 스무디볼",
+    "emoji": "🍧",
+    "description": "A vibrant strawberry smoothie bowl with Korean toppings like misugaru and chestnuts.",
+    "descriptionKo": "미숫가루와 밤을 올린 한국식 딸기 스무디볼",
+    "mainIngredient": "딸기 Strawberry",
+    "mainIngredientKo": "딸기",
+    "season": "겨울/봄",
+    "cookTime": "10분",
+    "difficulty": "쉬움 Easy",
+    "servings": "1인분",
+    "tags": [
+      "딸기",
+      "스무디",
+      "건강",
+      "브런치",
+      "봄"
+    ],
+    "ingredients": [
+      {
+        "name": "딸기 Strawberry",
+        "amount": "200g"
+      },
+      {
+        "name": "바나나 Banana",
+        "amount": "1개"
+      },
+      {
+        "name": "요거트 Yogurt",
+        "amount": "100g"
+      },
+      {
+        "name": "미숫가루 Misugaru",
+        "amount": "1큰술"
+      },
+      {
+        "name": "꿀 Honey",
+        "amount": "1큰술"
+      },
+      {
+        "name": "그래놀라 Granola",
+        "amount": "30g"
+      }
+    ],
+    "steps": [
+      {
+        "step": "딸기와 바나나, 요거트를 블렌더에 갈아줍니다. Blend strawberries, banana, and yogurt."
+      },
+      {
+        "step": "그릇에 담고 미숫가루를 뿌립니다. Pour into a bowl and sprinkle misugaru."
+      },
+      {
+        "step": "남은 딸기를 슬라이스하여 올립니다. Slice remaining strawberries as topping."
+      },
+      {
+        "step": "그래놀라, 꿀을 올려 완성합니다. Top with granola and honey."
+      }
+    ],
+    "nutrition": {
+      "calories": "280 kcal",
+      "protein": "8g",
+      "carbs": "52g",
+      "fat": "5g"
+    },
+    "tip": "얼린 딸기를 사용하면 아이스크림 같은 식감이 됩니다. Use frozen strawberries for an ice cream-like texture."
+  },
+  {
+    "id": 15,
+    "published": false,
+    "slug": "minari-samgyeopsal",
+    "title": "Water Parsley Pork Belly Wrap",
+    "titleKo": "미나리 삼겹살말이",
+    "emoji": "🥩",
+    "description": "Grilled pork belly wrapped with fresh water parsley, a popular Korean BBQ pairing.",
+    "descriptionKo": "구운 삼겹살에 미나리를 감아 상큼하게 즐기는 인기 구이 메뉴",
+    "mainIngredient": "미나리 Water Parsley",
+    "mainIngredientKo": "미나리",
+    "season": "봄",
+    "cookTime": "25분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "미나리",
+      "삼겹살",
+      "구이",
+      "봄",
+      "인기"
+    ],
+    "ingredients": [
+      {
+        "name": "삼겹살 Pork belly",
+        "amount": "300g"
+      },
+      {
+        "name": "미나리 Water parsley",
+        "amount": "200g"
+      },
+      {
+        "name": "소금 Salt",
+        "amount": "약간"
+      },
+      {
+        "name": "후추 Pepper",
+        "amount": "약간"
+      },
+      {
+        "name": "쌈장 Ssamjang",
+        "amount": "3큰술"
+      },
+      {
+        "name": "마늘 Garlic",
+        "amount": "5쪽"
+      }
+    ],
+    "steps": [
+      {
+        "step": "삼겹살을 먹기 좋게 자릅니다. Cut pork belly into portions."
+      },
+      {
+        "step": "팬에 삼겹살을 앞뒤로 바삭하게 구워줍니다. Grill pork belly until crispy on both sides."
+      },
+      {
+        "step": "미나리를 깨끗이 씻어 준비합니다. Wash water parsley and prepare."
+      },
+      {
+        "step": "구운 삼겹살에 미나리를 감아줍니다. Wrap grilled pork with water parsley."
+      },
+      {
+        "step": "쌈장과 마늘을 곁들여 완성합니다. Serve with ssamjang and garlic."
+      }
+    ],
+    "nutrition": {
+      "calories": "420 kcal",
+      "protein": "22g",
+      "carbs": "5g",
+      "fat": "35g"
+    },
+    "tip": "미나리의 아삭한 식감이 기름진 삼겹살과 완벽하게 어울립니다. Crunchy parsley perfectly cuts the richness of pork belly."
+  },
+  {
+    "id": 16,
+    "published": false,
+    "slug": "dalrae-bibimbap",
+    "title": "Wild Chive Bibimbap",
+    "titleKo": "달래비빔밥",
+    "emoji": "🍚",
+    "description": "Spring-inspired bibimbap topped with fresh wild chives and gochujang sauce.",
+    "descriptionKo": "향긋한 달래를 듬뿍 올린 봄철 영양 비빔밥",
+    "mainIngredient": "달래 Wild Chive",
+    "mainIngredientKo": "달래",
+    "season": "봄",
+    "cookTime": "20분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "달래",
+      "비빔밥",
+      "한식",
+      "봄",
+      "건강"
+    ],
+    "ingredients": [
+      {
+        "name": "달래 Wild chive",
+        "amount": "100g"
+      },
+      {
+        "name": "밥 Cooked rice",
+        "amount": "2공기"
+      },
+      {
+        "name": "고추장 Gochujang",
+        "amount": "2큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "계란 Egg",
+        "amount": "2개"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "1큰술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1큰술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "달래를 씻어 잘게 다집니다. Wash and finely chop wild chives."
+      },
+      {
+        "step": "달래양념장: 간장, 고춧가루, 참기름, 식초를 섞습니다. Make chive sauce: mix soy sauce, pepper, sesame oil, vinegar."
+      },
+      {
+        "step": "계란 프라이를 만듭니다. Fry eggs sunny side up."
+      },
+      {
+        "step": "밥 위에 달래, 계란, 고추장을 올립니다. Top rice with chives, egg, and gochujang."
+      },
+      {
+        "step": "참기름과 깨를 뿌려 비벼 드세요. Drizzle sesame oil and seeds, then mix!"
+      }
+    ],
+    "nutrition": {
+      "calories": "380 kcal",
+      "protein": "14g",
+      "carbs": "56g",
+      "fat": "12g"
+    },
+    "tip": "달래의 향이 가장 좋을 때는 3월입니다. Wild chive flavor peaks in March."
+  },
+  {
+    "id": 17,
+    "published": false,
+    "slug": "sigeumchi-namul",
+    "title": "Korean Seasoned Spinach (Sigeumchi Namul)",
+    "titleKo": "시금치나물",
+    "emoji": "🥬",
+    "description": "Classic Korean blanched spinach side dish with sesame and garlic.",
+    "descriptionKo": "고소한 참기름향의 기본 시금치나물 반찬",
+    "mainIngredient": "시금치 Spinach",
+    "mainIngredientKo": "시금치",
+    "season": "겨울/봄",
+    "cookTime": "10분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "시금치",
+      "나물",
+      "반찬",
+      "기본",
+      "건강"
+    ],
+    "ingredients": [
+      {
+        "name": "시금치 Spinach",
+        "amount": "300g"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "국간장 Soup soy sauce",
+        "amount": "1큰술"
+      },
+      {
+        "name": "다진마늘 Minced garlic",
+        "amount": "1작은술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1큰술"
+      },
+      {
+        "name": "소금 Salt",
+        "amount": "약간"
+      }
+    ],
+    "steps": [
+      {
+        "step": "시금치를 깨끗이 씻습니다. Wash spinach thoroughly."
+      },
+      {
+        "step": "끓는 물에 소금을 넣고 30초 데칩니다. Blanch in salted boiling water for 30 seconds."
+      },
+      {
+        "step": "찬물에 헹구고 물기를 짭니다. Rinse in cold water and squeeze dry."
+      },
+      {
+        "step": "국간장, 참기름, 마늘을 넣고 조물조물 무칩니다. Season with soy sauce, sesame oil, and garlic."
+      },
+      {
+        "step": "깨를 뿌려 완성합니다. Sprinkle with sesame seeds."
+      }
+    ],
+    "nutrition": {
+      "calories": "55 kcal",
+      "protein": "4g",
+      "carbs": "3g",
+      "fat": "3g"
+    },
+    "tip": "데친 시금치의 물기를 충분히 제거해야 양념이 잘 배입니다. Squeeze out water well so seasoning absorbs properly."
+  },
+  {
+    "id": 18,
+    "published": false,
+    "slug": "strawberry-bingsu",
+    "title": "Korean Strawberry Shaved Ice (Bingsu)",
+    "titleKo": "딸기빙수",
+    "emoji": "🍨",
+    "description": "Fluffy shaved ice with fresh strawberries, condensed milk, and red bean — Korean summer dessert reimagined for spring.",
+    "descriptionKo": "신선한 딸기와 연유, 팥이 만나 만든 봄 특별 빙수",
+    "mainIngredient": "딸기 Strawberry",
+    "mainIngredientKo": "딸기",
+    "season": "겨울/봄",
+    "cookTime": "15분",
+    "difficulty": "쉬움 Easy",
+    "servings": "2인분",
+    "tags": [
+      "딸기",
+      "빙수",
+      "디저트",
+      "봄",
+      "카페"
+    ],
+    "ingredients": [
+      {
+        "name": "얼음 Ice / shaved ice",
+        "amount": "적당량"
+      },
+      {
+        "name": "딸기 Strawberry",
+        "amount": "200g"
+      },
+      {
+        "name": "연유 Condensed milk",
+        "amount": "3큰술"
+      },
+      {
+        "name": "팥 Red bean",
+        "amount": "3큰술"
+      },
+      {
+        "name": "떡 Rice cake pieces",
+        "amount": "50g"
+      },
+      {
+        "name": "딸기시럽 Strawberry syrup",
+        "amount": "2큰술"
+      }
+    ],
+    "steps": [
+      {
+        "step": "얼음을 곱게 갈아 그릇에 담습니다. Shave ice finely and place in a bowl."
+      },
+      {
+        "step": "딸기를 슬라이스하여 올려줍니다. Slice strawberries and arrange on top."
+      },
+      {
+        "step": "팥과 떡을 올립니다. Add red bean and rice cake pieces."
+      },
+      {
+        "step": "연유와 딸기시럽을 뿌려 완성합니다. Drizzle with condensed milk and strawberry syrup."
+      }
+    ],
+    "nutrition": {
+      "calories": "250 kcal",
+      "protein": "4g",
+      "carbs": "52g",
+      "fat": "3g"
+    },
+    "tip": "우유를 얼려서 갈면 더 부드러운 빙수가 됩니다. Freeze milk for a creamier shaved ice."
+  },
+  {
+    "id": 19,
+    "published": false,
+    "slug": "ueong-bokkeum",
+    "title": "Stir-fried Burdock Root with Beef",
+    "titleKo": "소고기 우엉볶음",
+    "emoji": "🥘",
+    "description": "Savory stir-fried burdock root with beef — a nutritious Korean side dish.",
+    "descriptionKo": "소고기와 우엉을 함께 볶아 만든 영양 만점 반찬",
+    "mainIngredient": "우엉 Burdock Root",
+    "mainIngredientKo": "우엉",
+    "season": "겨울/봄",
+    "cookTime": "25분",
+    "difficulty": "보통 Medium",
+    "servings": "3인분",
+    "tags": [
+      "우엉",
+      "소고기",
+      "볶음",
+      "반찬",
+      "영양"
+    ],
+    "ingredients": [
+      {
+        "name": "우엉 Burdock root",
+        "amount": "200g"
+      },
+      {
+        "name": "소고기 Beef",
+        "amount": "150g"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "2큰술"
+      },
+      {
+        "name": "설탕 Sugar",
+        "amount": "1큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "깨 Sesame seeds",
+        "amount": "1큰술"
+      },
+      {
+        "name": "고추 Chili pepper",
+        "amount": "1개"
+      }
+    ],
+    "steps": [
+      {
+        "step": "우엉을 채 썰어 식초물에 담급니다. Julienne burdock and soak in vinegar water."
+      },
+      {
+        "step": "소고기를 얇게 썰어 간장, 설탕으로 밑간합니다. Slice beef thin and marinate with soy sauce and sugar."
+      },
+      {
+        "step": "팬에 소고기를 먼저 볶습니다. Stir-fry beef first."
+      },
+      {
+        "step": "우엉을 넣고 함께 볶습니다. Add burdock and stir-fry together."
+      },
+      {
+        "step": "참기름, 깨, 고추를 넣어 완성합니다. Finish with sesame oil, seeds, and chili."
+      }
+    ],
+    "nutrition": {
+      "calories": "210 kcal",
+      "protein": "16g",
+      "carbs": "14g",
+      "fat": "10g"
+    },
+    "tip": "우엉을 아삭하게 먹고 싶으면 볶는 시간을 줄이세요. For crunchier burdock, reduce stir-fry time."
+  },
+  {
+    "id": 20,
+    "published": false,
+    "slug": "naengi-mandu",
+    "title": "Shepherd's Purse Dumplings (Naengi Mandu)",
+    "titleKo": "냉이만두",
+    "emoji": "🥟",
+    "description": "Handmade Korean dumplings filled with aromatic shepherd's purse and pork.",
+    "descriptionKo": "향긋한 냉이와 돼지고기로 만든 봄 특별 만두",
+    "mainIngredient": "냉이 Shepherd's Purse",
+    "mainIngredientKo": "냉이",
+    "season": "봄",
+    "cookTime": "50분",
+    "difficulty": "어려움 Hard",
+    "servings": "30개",
+    "tags": [
+      "냉이",
+      "만두",
+      "봄",
+      "손만두",
+      "특별"
+    ],
+    "ingredients": [
+      {
+        "name": "냉이 Shepherd's purse",
+        "amount": "200g"
+      },
+      {
+        "name": "돼지고기 Pork",
+        "amount": "200g"
+      },
+      {
+        "name": "두부 Tofu",
+        "amount": "1/2모"
+      },
+      {
+        "name": "만두피 Dumpling wrappers",
+        "amount": "30장"
+      },
+      {
+        "name": "대파 Green onion",
+        "amount": "1대"
+      },
+      {
+        "name": "간장 Soy sauce",
+        "amount": "1큰술"
+      },
+      {
+        "name": "참기름 Sesame oil",
+        "amount": "1큰술"
+      },
+      {
+        "name": "소금 Salt",
+        "amount": "약간"
+      }
+    ],
+    "steps": [
+      {
+        "step": "냉이를 다듬어 데쳐서 잘게 다집니다. Clean, blanch, and finely chop shepherd's purse."
+      },
+      {
+        "step": "두부의 물기를 꽉 짜줍니다. Press tofu to remove excess water."
+      },
+      {
+        "step": "돼지고기, 냉이, 두부, 양념을 섞어 소를 만듭니다. Mix pork, purse, tofu, and seasonings for filling."
+      },
+      {
+        "step": "만두피에 소를 넣고 모양을 잡습니다. Place filling in wrappers and shape dumplings."
+      },
+      {
+        "step": "찜기에서 15분 쪄내거나 팬에 구워냅니다. Steam 15 min or pan-fry until golden."
+      }
+    ],
+    "nutrition": {
+      "calories": "35 kcal",
+      "protein": "3g",
+      "carbs": "3g",
+      "fat": "1g"
+    },
+    "tip": "만두소에 당면을 넣으면 식감이 더 좋아집니다. Adding glass noodles to filling improves texture."
+  }
+]

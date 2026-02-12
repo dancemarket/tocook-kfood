@@ -1,0 +1,460 @@
+{
+    "months": {
+        "1": {
+            "name": "1월",
+            "nameEn": "January",
+            "season": "겨울 Winter",
+            "icon": "❄️",
+            "ingredients": [
+                {
+                    "name": "시래기",
+                    "nameEn": "Dried Radish Greens",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "무",
+                    "nameEn": "Korean Radish",
+                    "emoji": "🥕"
+                },
+                {
+                    "name": "굴",
+                    "nameEn": "Oyster",
+                    "emoji": "🦪"
+                },
+                {
+                    "name": "대구",
+                    "nameEn": "Cod",
+                    "emoji": "🐟"
+                },
+                {
+                    "name": "꼬막",
+                    "nameEn": "Cockle",
+                    "emoji": "🐚"
+                },
+                {
+                    "name": "귤",
+                    "nameEn": "Mandarin",
+                    "emoji": "🍊"
+                }
+            ]
+        },
+        "2": {
+            "name": "2월",
+            "nameEn": "February",
+            "season": "겨울/봄 Late Winter",
+            "icon": "🌱",
+            "ingredients": [
+                {
+                    "name": "딸기",
+                    "nameEn": "Strawberry",
+                    "emoji": "🍓"
+                },
+                {
+                    "name": "미나리",
+                    "nameEn": "Water Parsley",
+                    "emoji": "🌿"
+                },
+                {
+                    "name": "냉이",
+                    "nameEn": "Shepherd's Purse",
+                    "emoji": "🌾"
+                },
+                {
+                    "name": "달래",
+                    "nameEn": "Wild Chive",
+                    "emoji": "🧅"
+                },
+                {
+                    "name": "우엉",
+                    "nameEn": "Burdock Root",
+                    "emoji": "🥕"
+                },
+                {
+                    "name": "시금치",
+                    "nameEn": "Spinach",
+                    "emoji": "🥬"
+                }
+            ]
+        },
+        "3": {
+            "name": "3월",
+            "nameEn": "March",
+            "season": "봄 Spring",
+            "icon": "🌸",
+            "ingredients": [
+                {
+                    "name": "달래",
+                    "nameEn": "Wild Chive",
+                    "emoji": "🧅"
+                },
+                {
+                    "name": "냉이",
+                    "nameEn": "Shepherd's Purse",
+                    "emoji": "🌾"
+                },
+                {
+                    "name": "두릅",
+                    "nameEn": "Fatsia Shoots",
+                    "emoji": "🌿"
+                },
+                {
+                    "name": "쑥",
+                    "nameEn": "Mugwort",
+                    "emoji": "🍃"
+                },
+                {
+                    "name": "봄동",
+                    "nameEn": "Spring Cabbage",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "주꾸미",
+                    "nameEn": "Small Octopus",
+                    "emoji": "🐙"
+                }
+            ]
+        },
+        "4": {
+            "name": "4월",
+            "nameEn": "April",
+            "season": "봄 Spring",
+            "icon": "🌷",
+            "ingredients": [
+                {
+                    "name": "두릅",
+                    "nameEn": "Fatsia Shoots",
+                    "emoji": "🌿"
+                },
+                {
+                    "name": "미나리",
+                    "nameEn": "Water Parsley",
+                    "emoji": "🌱"
+                },
+                {
+                    "name": "주꾸미",
+                    "nameEn": "Small Octopus",
+                    "emoji": "🐙"
+                },
+                {
+                    "name": "멍게",
+                    "nameEn": "Sea Squirt",
+                    "emoji": "🧡"
+                },
+                {
+                    "name": "취나물",
+                    "nameEn": "Aster Greens",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "더덕",
+                    "nameEn": "Mountain Root",
+                    "emoji": "🥕"
+                }
+            ]
+        },
+        "5": {
+            "name": "5월",
+            "nameEn": "May",
+            "season": "봄/여름 Late Spring",
+            "icon": "🌻",
+            "ingredients": [
+                {
+                    "name": "매실",
+                    "nameEn": "Green Plum",
+                    "emoji": "🟢"
+                },
+                {
+                    "name": "양배추",
+                    "nameEn": "Cabbage",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "감자",
+                    "nameEn": "Potato",
+                    "emoji": "🥔"
+                },
+                {
+                    "name": "마늘종",
+                    "nameEn": "Garlic Scapes",
+                    "emoji": "🧄"
+                },
+                {
+                    "name": "꽃게",
+                    "nameEn": "Blue Crab",
+                    "emoji": "🦀"
+                },
+                {
+                    "name": "참외",
+                    "nameEn": "Korean Melon",
+                    "emoji": "🍈"
+                }
+            ]
+        },
+        "6": {
+            "name": "6월",
+            "nameEn": "June",
+            "season": "여름 Summer",
+            "icon": "☀️",
+            "ingredients": [
+                {
+                    "name": "매실",
+                    "nameEn": "Green Plum",
+                    "emoji": "🟢"
+                },
+                {
+                    "name": "수박",
+                    "nameEn": "Watermelon",
+                    "emoji": "🍉"
+                },
+                {
+                    "name": "복분자",
+                    "nameEn": "Black Raspberry",
+                    "emoji": "🫐"
+                },
+                {
+                    "name": "오이",
+                    "nameEn": "Cucumber",
+                    "emoji": "🥒"
+                },
+                {
+                    "name": "감자",
+                    "nameEn": "Potato",
+                    "emoji": "🥔"
+                },
+                {
+                    "name": "자두",
+                    "nameEn": "Plum",
+                    "emoji": "🫐"
+                }
+            ]
+        },
+        "7": {
+            "name": "7월",
+            "nameEn": "July",
+            "season": "여름 Summer",
+            "icon": "🌞",
+            "ingredients": [
+                {
+                    "name": "옥수수",
+                    "nameEn": "Corn",
+                    "emoji": "🌽"
+                },
+                {
+                    "name": "복숭아",
+                    "nameEn": "Peach",
+                    "emoji": "🍑"
+                },
+                {
+                    "name": "삼계탕 재료",
+                    "nameEn": "Samgyetang Ingredients",
+                    "emoji": "🐓"
+                },
+                {
+                    "name": "고추",
+                    "nameEn": "Chili Pepper",
+                    "emoji": "🌶️"
+                },
+                {
+                    "name": "블루베리",
+                    "nameEn": "Blueberry",
+                    "emoji": "🫐"
+                },
+                {
+                    "name": "콩나물",
+                    "nameEn": "Bean Sprouts",
+                    "emoji": "🌱"
+                }
+            ]
+        },
+        "8": {
+            "name": "8월",
+            "nameEn": "August",
+            "season": "여름/가을 Late Summer",
+            "icon": "🍂",
+            "ingredients": [
+                {
+                    "name": "가지",
+                    "nameEn": "Eggplant",
+                    "emoji": "🍆"
+                },
+                {
+                    "name": "고추",
+                    "nameEn": "Chili Pepper",
+                    "emoji": "🌶️"
+                },
+                {
+                    "name": "토마토",
+                    "nameEn": "Tomato",
+                    "emoji": "🍅"
+                },
+                {
+                    "name": "전복",
+                    "nameEn": "Abalone",
+                    "emoji": "🐚"
+                },
+                {
+                    "name": "포도",
+                    "nameEn": "Grape",
+                    "emoji": "🍇"
+                },
+                {
+                    "name": "깻잎",
+                    "nameEn": "Perilla Leaf",
+                    "emoji": "🌿"
+                }
+            ]
+        },
+        "9": {
+            "name": "9월",
+            "nameEn": "September",
+            "season": "가을 Autumn",
+            "icon": "🍁",
+            "ingredients": [
+                {
+                    "name": "배",
+                    "nameEn": "Korean Pear",
+                    "emoji": "🍐"
+                },
+                {
+                    "name": "고구마",
+                    "nameEn": "Sweet Potato",
+                    "emoji": "🍠"
+                },
+                {
+                    "name": "버섯",
+                    "nameEn": "Mushroom",
+                    "emoji": "🍄"
+                },
+                {
+                    "name": "대추",
+                    "nameEn": "Jujube",
+                    "emoji": "🔴"
+                },
+                {
+                    "name": "새우",
+                    "nameEn": "Shrimp",
+                    "emoji": "🦐"
+                },
+                {
+                    "name": "밤",
+                    "nameEn": "Chestnut",
+                    "emoji": "🌰"
+                }
+            ]
+        },
+        "10": {
+            "name": "10월",
+            "nameEn": "October",
+            "season": "가을 Autumn",
+            "icon": "🎃",
+            "ingredients": [
+                {
+                    "name": "갈치",
+                    "nameEn": "Hairtail Fish",
+                    "emoji": "🐟"
+                },
+                {
+                    "name": "꽃게",
+                    "nameEn": "Blue Crab",
+                    "emoji": "🦀"
+                },
+                {
+                    "name": "사과",
+                    "nameEn": "Apple",
+                    "emoji": "🍎"
+                },
+                {
+                    "name": "감",
+                    "nameEn": "Persimmon",
+                    "emoji": "🍊"
+                },
+                {
+                    "name": "무",
+                    "nameEn": "Korean Radish",
+                    "emoji": "🥕"
+                },
+                {
+                    "name": "연근",
+                    "nameEn": "Lotus Root",
+                    "emoji": "🪷"
+                }
+            ]
+        },
+        "11": {
+            "name": "11월",
+            "nameEn": "November",
+            "season": "가을/겨울 Late Autumn",
+            "icon": "🍂",
+            "ingredients": [
+                {
+                    "name": "배추",
+                    "nameEn": "Napa Cabbage",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "무",
+                    "nameEn": "Korean Radish",
+                    "emoji": "🥕"
+                },
+                {
+                    "name": "과메기",
+                    "nameEn": "Dried Saury",
+                    "emoji": "🐟"
+                },
+                {
+                    "name": "유자",
+                    "nameEn": "Yuzu",
+                    "emoji": "🍋"
+                },
+                {
+                    "name": "시래기",
+                    "nameEn": "Dried Radish Greens",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "게",
+                    "nameEn": "Crab",
+                    "emoji": "🦀"
+                }
+            ]
+        },
+        "12": {
+            "name": "12월",
+            "nameEn": "December",
+            "season": "겨울 Winter",
+            "icon": "⛄",
+            "ingredients": [
+                {
+                    "name": "시래기",
+                    "nameEn": "Dried Radish Greens",
+                    "emoji": "🥬"
+                },
+                {
+                    "name": "무",
+                    "nameEn": "Korean Radish",
+                    "emoji": "🥕"
+                },
+                {
+                    "name": "귤",
+                    "nameEn": "Mandarin",
+                    "emoji": "🍊"
+                },
+                {
+                    "name": "과메기",
+                    "nameEn": "Dried Saury",
+                    "emoji": "🐟"
+                },
+                {
+                    "name": "굴",
+                    "nameEn": "Oyster",
+                    "emoji": "🦪"
+                },
+                {
+                    "name": "대구",
+                    "nameEn": "Cod",
+                    "emoji": "🐟"
+                }
+            ]
+        }
+    }
+}
