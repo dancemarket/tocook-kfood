@@ -1,8 +1,8 @@
 import AdBanner from '@/components/AdBanner';
 
 export const metadata = {
-    title: '소개 | About toCook kFood',
-    description: 'About toCook kFood - Korean seasonal recipe blog sharing authentic Korean cooking with the world.',
+    title: '소개 | About Make K-Food',
+    description: 'About Make K-Food - Korean seasonal recipe blog sharing authentic Korean cooking with the world.',
 };
 
 export default function AboutPage() {
@@ -11,7 +11,7 @@ export default function AboutPage() {
             <div className="container">
                 <div className="about-hero">
                     <h1 style={{ marginBottom: 'var(--space-md)' }}>
-                        🍲 toCook <span style={{ color: 'var(--color-nature-green)' }}>kFood</span>
+                        🍲 Make <span style={{ color: 'var(--color-nature-green)' }}>K-Food</span>
                     </h1>
                     <p style={{
                         fontSize: '1.2rem',
@@ -27,11 +27,11 @@ export default function AboutPage() {
                 <div className="about-content">
                     <h2 style={{ marginBottom: 'var(--space-lg)' }}>우리의 이야기 Our Story</h2>
                     <p>
-                        <strong>toCook kFood</strong>는 한국의 사계절이 선물하는 신선한 제철 식재료로 만드는
+                        <strong>Make K-Food</strong>는 한국의 사계절이 선물하는 신선한 제철 식재료로 만드는
                         요리 레시피를 전세계 사람들과 나누기 위해 시작되었습니다.
                     </p>
                     <p>
-                        <strong>toCook kFood</strong> was created to share Korean cooking recipes made with
+                        <strong>Make K-Food</strong> was created to share Korean cooking recipes made with
                         fresh seasonal ingredients gifted by Korea&apos;s four seasons, with people all around the world.
                     </p>
                     <p>

@@ -9,7 +9,7 @@ export default function Footer() {
                 <div className="footer-grid">
                     <div className="footer-brand">
                         <div className="footer-logo">
-                            🍲 toCook kFood
+                            🍲 Make K-Food
                         </div>
                         <p className="footer-description">
                             한국 제철 식재료로 만드는 건강한 요리 레시피를 매일 공유합니다.
@@ -38,7 +38,7 @@ export default function Footer() {
                 </div>
 
                 <div className="footer-bottom">
-                    <p>© {currentYear} toCook kFood. All rights reserved. 매일 새로운 한국 제철 레시피 🇰🇷</p>
+                    <p>© {currentYear} Make K-Food. All rights reserved. 매일 새로운 한국 제철 레시피 🇰🇷</p>
                 </div>
             </div>
         </footer>

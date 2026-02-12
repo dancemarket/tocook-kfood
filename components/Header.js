@@ -20,7 +20,7 @@ export default function Header() {
             <div className="header-inner">
                 <Link href="/" className="logo">
                     <span className="logo-icon">🍲</span>
-                    <span className="logo-text">toCook <span>kFood</span></span>
+                    <span className="logo-text">Make <span>K-Food</span></span>
                 </Link>
 
                 <nav className="nav">

@@ -2,143 +2,30 @@ const fs = require('fs');
 const path = require('path');
 
 // ============================================================
-// toCook kFood — Infinite Recipe Generator
+// Make K-Food — Infinite Recipe Generator
 // Combines seasonal ingredients + cooking method templates
 // to create unique recipes every day, forever.
 // ============================================================
 
 const recipesDir = path.join(__dirname, '..', 'content', 'recipes');
 const poolPath = path.join(__dirname, '..', 'data', 'recipe-pool.json');
+const ingredientsDbPath = path.join(__dirname, '..', 'data', 'ingredients-db.json');
 
 if (!fs.existsSync(recipesDir)) {
     fs.mkdirSync(recipesDir, { recursive: true });
 }
 
 // ============================================================
-// 1. Seasonal Ingredients Database (월별 제철 식재료)
+// 1. Load Seasonal Ingredients Database (월별 제철 식재료 440+)
 // ============================================================
-const SEASONAL_INGREDIENTS = {
-    1: [
-        { ko: '시래기', en: 'Dried Radish Greens', emoji: '🥬', category: 'vegetable' },
-        { ko: '무', en: 'Korean Radish', emoji: '🥕', category: 'vegetable' },
-        { ko: '굴', en: 'Oyster', emoji: '🦪', category: 'seafood' },
-        { ko: '대구', en: 'Cod', emoji: '🐟', category: 'seafood' },
-        { ko: '꼬막', en: 'Cockle', emoji: '🐚', category: 'seafood' },
-        { ko: '귤', en: 'Mandarin', emoji: '🍊', category: 'fruit' },
-        { ko: '배추', en: 'Napa Cabbage', emoji: '🥬', category: 'vegetable' },
-        { ko: '콩나물', en: 'Bean Sprouts', emoji: '🌱', category: 'vegetable' },
-    ],
-    2: [
-        { ko: '딸기', en: 'Strawberry', emoji: '🍓', category: 'fruit' },
-        { ko: '미나리', en: 'Water Parsley', emoji: '🌿', category: 'vegetable' },
-        { ko: '냉이', en: "Shepherd's Purse", emoji: '🌾', category: 'vegetable' },
-        { ko: '달래', en: 'Wild Chive', emoji: '🧅', category: 'vegetable' },
-        { ko: '우엉', en: 'Burdock Root', emoji: '🥕', category: 'vegetable' },
-        { ko: '시금치', en: 'Spinach', emoji: '🥬', category: 'vegetable' },
-        { ko: '유채', en: 'Rapeseed Greens', emoji: '🌱', category: 'vegetable' },
-        { ko: '더덕', en: 'Mountain Root', emoji: '🥕', category: 'vegetable' },
-    ],
-    3: [
-        { ko: '달래', en: 'Wild Chive', emoji: '🧅', category: 'vegetable' },
-        { ko: '냉이', en: "Shepherd's Purse", emoji: '🌾', category: 'vegetable' },
-        { ko: '두릅', en: 'Fatsia Shoots', emoji: '🌿', category: 'vegetable' },
-        { ko: '쑥', en: 'Mugwort', emoji: '🍃', category: 'vegetable' },
-        { ko: '봄동', en: 'Spring Cabbage', emoji: '🥬', category: 'vegetable' },
-        { ko: '주꾸미', en: 'Small Octopus', emoji: '🐙', category: 'seafood' },
-        { ko: '바지락', en: 'Clam', emoji: '🐚', category: 'seafood' },
-        { ko: '미나리', en: 'Water Parsley', emoji: '🌿', category: 'vegetable' },
-    ],
-    4: [
-        { ko: '두릅', en: 'Fatsia Shoots', emoji: '🌿', category: 'vegetable' },
-        { ko: '미나리', en: 'Water Parsley', emoji: '🌱', category: 'vegetable' },
-        { ko: '주꾸미', en: 'Small Octopus', emoji: '🐙', category: 'seafood' },
-        { ko: '멍게', en: 'Sea Squirt', emoji: '🧡', category: 'seafood' },
-        { ko: '취나물', en: 'Aster Greens', emoji: '🥬', category: 'vegetable' },
-        { ko: '더덕', en: 'Mountain Root', emoji: '🥕', category: 'vegetable' },
-        { ko: '도다리', en: 'Flounder', emoji: '🐟', category: 'seafood' },
-        { ko: '참나물', en: 'Pimpinella', emoji: '🌿', category: 'vegetable' },
-    ],
-    5: [
-        { ko: '매실', en: 'Green Plum', emoji: '🟢', category: 'fruit' },
-        { ko: '양배추', en: 'Cabbage', emoji: '🥬', category: 'vegetable' },
-        { ko: '감자', en: 'Potato', emoji: '🥔', category: 'vegetable' },
-        { ko: '마늘종', en: 'Garlic Scapes', emoji: '🧄', category: 'vegetable' },
-        { ko: '꽃게', en: 'Blue Crab', emoji: '🦀', category: 'seafood' },
-        { ko: '참외', en: 'Korean Melon', emoji: '🍈', category: 'fruit' },
-        { ko: '완두콩', en: 'Green Peas', emoji: '🫛', category: 'vegetable' },
-        { ko: '아스파라거스', en: 'Asparagus', emoji: '🌿', category: 'vegetable' },
-    ],
-    6: [
-        { ko: '매실', en: 'Green Plum', emoji: '🟢', category: 'fruit' },
-        { ko: '수박', en: 'Watermelon', emoji: '🍉', category: 'fruit' },
-        { ko: '복분자', en: 'Black Raspberry', emoji: '🫐', category: 'fruit' },
-        { ko: '오이', en: 'Cucumber', emoji: '🥒', category: 'vegetable' },
-        { ko: '감자', en: 'Potato', emoji: '🥔', category: 'vegetable' },
-        { ko: '자두', en: 'Plum', emoji: '🫐', category: 'fruit' },
-        { ko: '깻잎', en: 'Perilla Leaf', emoji: '🌿', category: 'vegetable' },
-        { ko: '상추', en: 'Lettuce', emoji: '🥬', category: 'vegetable' },
-    ],
-    7: [
-        { ko: '옥수수', en: 'Corn', emoji: '🌽', category: 'vegetable' },
-        { ko: '복숭아', en: 'Peach', emoji: '🍑', category: 'fruit' },
-        { ko: '고추', en: 'Chili Pepper', emoji: '🌶️', category: 'vegetable' },
-        { ko: '블루베리', en: 'Blueberry', emoji: '🫐', category: 'fruit' },
-        { ko: '콩나물', en: 'Bean Sprouts', emoji: '🌱', category: 'vegetable' },
-        { ko: '호박', en: 'Zucchini', emoji: '🎃', category: 'vegetable' },
-        { ko: '부추', en: 'Chives', emoji: '🌿', category: 'vegetable' },
-        { ko: '닭', en: 'Chicken', emoji: '🐓', category: 'meat' },
-    ],
-    8: [
-        { ko: '가지', en: 'Eggplant', emoji: '🍆', category: 'vegetable' },
-        { ko: '고추', en: 'Chili Pepper', emoji: '🌶️', category: 'vegetable' },
-        { ko: '토마토', en: 'Tomato', emoji: '🍅', category: 'vegetable' },
-        { ko: '전복', en: 'Abalone', emoji: '🐚', category: 'seafood' },
-        { ko: '포도', en: 'Grape', emoji: '🍇', category: 'fruit' },
-        { ko: '깻잎', en: 'Perilla Leaf', emoji: '🌿', category: 'vegetable' },
-        { ko: '풋고추', en: 'Green Pepper', emoji: '🫑', category: 'vegetable' },
-        { ko: '열무', en: 'Young Radish', emoji: '🥬', category: 'vegetable' },
-    ],
-    9: [
-        { ko: '배', en: 'Korean Pear', emoji: '🍐', category: 'fruit' },
-        { ko: '고구마', en: 'Sweet Potato', emoji: '🍠', category: 'vegetable' },
-        { ko: '버섯', en: 'Mushroom', emoji: '🍄', category: 'vegetable' },
-        { ko: '대추', en: 'Jujube', emoji: '🔴', category: 'fruit' },
-        { ko: '새우', en: 'Shrimp', emoji: '🦐', category: 'seafood' },
-        { ko: '밤', en: 'Chestnut', emoji: '🌰', category: 'fruit' },
-        { ko: '은행', en: 'Ginkgo Nut', emoji: '🟡', category: 'vegetable' },
-        { ko: '연근', en: 'Lotus Root', emoji: '🪷', category: 'vegetable' },
-    ],
-    10: [
-        { ko: '갈치', en: 'Hairtail Fish', emoji: '🐟', category: 'seafood' },
-        { ko: '꽃게', en: 'Blue Crab', emoji: '🦀', category: 'seafood' },
-        { ko: '사과', en: 'Apple', emoji: '🍎', category: 'fruit' },
-        { ko: '감', en: 'Persimmon', emoji: '🍊', category: 'fruit' },
-        { ko: '무', en: 'Korean Radish', emoji: '🥕', category: 'vegetable' },
-        { ko: '연근', en: 'Lotus Root', emoji: '🪷', category: 'vegetable' },
-        { ko: '도토리', en: 'Acorn', emoji: '🌰', category: 'vegetable' },
-        { ko: '잣', en: 'Pine Nut', emoji: '🟤', category: 'vegetable' },
-    ],
-    11: [
-        { ko: '배추', en: 'Napa Cabbage', emoji: '🥬', category: 'vegetable' },
-        { ko: '무', en: 'Korean Radish', emoji: '🥕', category: 'vegetable' },
-        { ko: '과메기', en: 'Dried Saury', emoji: '🐟', category: 'seafood' },
-        { ko: '유자', en: 'Yuzu', emoji: '🍋', category: 'fruit' },
-        { ko: '시래기', en: 'Dried Radish Greens', emoji: '🥬', category: 'vegetable' },
-        { ko: '게', en: 'Crab', emoji: '🦀', category: 'seafood' },
-        { ko: '늙은호박', en: 'Pumpkin', emoji: '🎃', category: 'vegetable' },
-        { ko: '당근', en: 'Carrot', emoji: '🥕', category: 'vegetable' },
-    ],
-    12: [
-        { ko: '시래기', en: 'Dried Radish Greens', emoji: '🥬', category: 'vegetable' },
-        { ko: '무', en: 'Korean Radish', emoji: '🥕', category: 'vegetable' },
-        { ko: '귤', en: 'Mandarin', emoji: '🍊', category: 'fruit' },
-        { ko: '과메기', en: 'Dried Saury', emoji: '🐟', category: 'seafood' },
-        { ko: '굴', en: 'Oyster', emoji: '🦪', category: 'seafood' },
-        { ko: '대구', en: 'Cod', emoji: '🐟', category: 'seafood' },
-        { ko: '우엉', en: 'Burdock Root', emoji: '🥕', category: 'vegetable' },
-        { ko: '파', en: 'Green Onion', emoji: '🧅', category: 'vegetable' },
-    ],
-};
+const catMap = { v: 'vegetable', s: 'seafood', f: 'fruit', m: 'meat' };
+const rawDb = JSON.parse(fs.readFileSync(ingredientsDbPath, 'utf8'));
+const SEASONAL_INGREDIENTS = {};
+for (const [month, items] of Object.entries(rawDb)) {
+    SEASONAL_INGREDIENTS[month] = items.map(i => ({
+        ko: i.ko, en: i.en, emoji: i.emoji, category: catMap[i.cat] || i.cat,
+    }));
+}
 
 // ============================================================
 // 2. Korean Cooking Method Templates (한식 조리법 템플릿)
