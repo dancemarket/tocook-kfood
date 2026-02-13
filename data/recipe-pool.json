@@ -379,8 +379,8 @@
   },
   {
     "id": 6,
-    "published": false,
-    "slug": "strawberry-salad",
+    "published": true,
+    "slug": "2026-02-13-strawberry-salad",
     "title": "Korean Strawberry Salad with Sesame Dressing",
     "titleKo": "딸기 참깨 샐러드",
     "emoji": "🥗",
@@ -456,7 +456,8 @@
       "carbs": "18g",
       "fat": "9g"
     },
-    "tip": "드레싱은 먹기 직전에 뿌려야 채소가 축 처지지 않아요. Add dressing just before eating."
+    "tip": "드레싱은 먹기 직전에 뿌려야 채소가 축 처지지 않아요. Add dressing just before eating.",
+    "publishDate": "2026-02-13"
   },
   {
     "id": 7,
