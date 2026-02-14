@@ -461,8 +461,8 @@
   },
   {
     "id": 7,
-    "published": false,
-    "slug": "ueong-jorim",
+    "published": true,
+    "slug": "2026-02-14-ueong-jorim",
     "title": "Braised Burdock Root (Ueong Jorim)",
     "titleKo": "우엉조림",
     "emoji": "🥕",
@@ -537,7 +537,8 @@
       "carbs": "22g",
       "fat": "4g"
     },
-    "tip": "우엉을 미리 식초물에 담가두면 변색을 방지합니다. Soak in vinegar water to prevent browning."
+    "tip": "우엉을 미리 식초물에 담가두면 변색을 방지합니다. Soak in vinegar water to prevent browning.",
+    "publishDate": "2026-02-14"
   },
   {
     "id": 8,
