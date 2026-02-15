@@ -542,8 +542,8 @@
   },
   {
     "id": 8,
-    "published": false,
-    "slug": "minari-kimchi",
+    "published": true,
+    "slug": "2026-02-15-minari-kimchi",
     "title": "Water Parsley Kimchi (Minari Kimchi)",
     "titleKo": "미나리김치",
     "emoji": "🌱",
@@ -611,7 +611,8 @@
       "carbs": "5g",
       "fat": "1g"
     },
-    "tip": "숙성 시간이 길수록 맛이 깊어집니다. Longer fermentation = deeper flavor."
+    "tip": "숙성 시간이 길수록 맛이 깊어집니다. Longer fermentation = deeper flavor.",
+    "publishDate": "2026-02-15"
   },
   {
     "id": 9,
