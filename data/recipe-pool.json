@@ -616,8 +616,8 @@
   },
   {
     "id": 9,
-    "published": false,
-    "slug": "naengi-namul",
+    "published": true,
+    "slug": "2026-02-16-naengi-namul",
     "title": "Seasoned Shepherd's Purse (Naengi Namul)",
     "titleKo": "냉이나물무침",
     "emoji": "🌾",
@@ -681,7 +681,8 @@
       "carbs": "4g",
       "fat": "4g"
     },
-    "tip": "데치는 시간을 짧게 하면 식감이 살아납니다. Keep blanching time short for better texture."
+    "tip": "데치는 시간을 짧게 하면 식감이 살아납니다. Keep blanching time short for better texture.",
+    "publishDate": "2026-02-16"
   },
   {
     "id": 10,
