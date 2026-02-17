@@ -686,8 +686,8 @@
   },
   {
     "id": 10,
-    "published": false,
-    "slug": "dalrae-gimbap",
+    "published": true,
+    "slug": "2026-02-17-dalrae-gimbap",
     "title": "Wild Chive Gimbap",
     "titleKo": "달래김밥",
     "emoji": "🍙",
@@ -762,7 +762,8 @@
       "carbs": "48g",
       "fat": "9g"
     },
-    "tip": "달래를 너무 잘게 썰지 마세요. 씹히는 식감이 포인트입니다. Don't chop chives too fine—the texture is key."
+    "tip": "달래를 너무 잘게 썰지 마세요. 씹히는 식감이 포인트입니다. Don't chop chives too fine—the texture is key.",
+    "publishDate": "2026-02-17"
   },
   {
     "id": 11,
