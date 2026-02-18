@@ -767,8 +767,8 @@
   },
   {
     "id": 11,
-    "published": false,
-    "slug": "strawberry-jam",
+    "published": true,
+    "slug": "2026-02-18-strawberry-jam",
     "title": "Homemade Korean Strawberry Jam",
     "titleKo": "수제 딸기잼",
     "emoji": "🫙",
@@ -824,7 +824,8 @@
       "carbs": "10g",
       "fat": "0g"
     },
-    "tip": "딸기의 60% 정도 설탕을 넣으면 최적입니다. Use 60% of the strawberry weight in sugar for best results."
+    "tip": "딸기의 60% 정도 설탕을 넣으면 최적입니다. Use 60% of the strawberry weight in sugar for best results.",
+    "publishDate": "2026-02-18"
   },
   {
     "id": 12,
