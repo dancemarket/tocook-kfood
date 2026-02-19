@@ -829,8 +829,8 @@
   },
   {
     "id": 12,
-    "published": false,
-    "slug": "minari-japchae",
+    "published": true,
+    "slug": "2026-02-19-minari-japchae",
     "title": "Water Parsley Glass Noodle Stir-fry",
     "titleKo": "미나리잡채",
     "emoji": "🍝",
@@ -906,7 +906,8 @@
       "carbs": "42g",
       "fat": "8g"
     },
-    "tip": "미나리는 마지막에 살짝만 볶아야 식감이 살아납니다. Add water parsley last for best texture."
+    "tip": "미나리는 마지막에 살짝만 볶아야 식감이 살아납니다. Add water parsley last for best texture.",
+    "publishDate": "2026-02-19"
   },
   {
     "id": 13,
