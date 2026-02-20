@@ -911,8 +911,8 @@
   },
   {
     "id": 13,
-    "published": false,
-    "slug": "naengi-gukbap",
+    "published": true,
+    "slug": "2026-02-20-naengi-gukbap",
     "title": "Shepherd's Purse Rice Soup (Naengi Gukbap)",
     "titleKo": "냉이국밥",
     "emoji": "🍲",
@@ -980,7 +980,8 @@
       "carbs": "52g",
       "fat": "8g"
     },
-    "tip": "계란을 넣고 나서 국자로 저으면 예쁘게 풀어집니다. Gently stir after adding egg for beautiful ribbons."
+    "tip": "계란을 넣고 나서 국자로 저으면 예쁘게 풀어집니다. Gently stir after adding egg for beautiful ribbons.",
+    "publishDate": "2026-02-20"
   },
   {
     "id": 14,
