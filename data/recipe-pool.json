@@ -985,8 +985,8 @@
   },
   {
     "id": 14,
-    "published": false,
-    "slug": "strawberry-smoothie-bowl",
+    "published": true,
+    "slug": "2026-02-21-strawberry-smoothie-bowl",
     "title": "Korean Strawberry Smoothie Bowl",
     "titleKo": "딸기 스무디볼",
     "emoji": "🍧",
@@ -1051,7 +1051,8 @@
       "carbs": "52g",
       "fat": "5g"
     },
-    "tip": "얼린 딸기를 사용하면 아이스크림 같은 식감이 됩니다. Use frozen strawberries for an ice cream-like texture."
+    "tip": "얼린 딸기를 사용하면 아이스크림 같은 식감이 됩니다. Use frozen strawberries for an ice cream-like texture.",
+    "publishDate": "2026-02-21"
   },
   {
     "id": 15,
