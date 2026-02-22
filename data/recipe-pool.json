@@ -1056,8 +1056,8 @@
   },
   {
     "id": 15,
-    "published": false,
-    "slug": "minari-samgyeopsal",
+    "published": true,
+    "slug": "2026-02-22-minari-samgyeopsal",
     "title": "Water Parsley Pork Belly Wrap",
     "titleKo": "미나리 삼겹살말이",
     "emoji": "🥩",
@@ -1125,7 +1125,8 @@
       "carbs": "5g",
       "fat": "35g"
     },
-    "tip": "미나리의 아삭한 식감이 기름진 삼겹살과 완벽하게 어울립니다. Crunchy parsley perfectly cuts the richness of pork belly."
+    "tip": "미나리의 아삭한 식감이 기름진 삼겹살과 완벽하게 어울립니다. Crunchy parsley perfectly cuts the richness of pork belly.",
+    "publishDate": "2026-02-22"
   },
   {
     "id": 16,
