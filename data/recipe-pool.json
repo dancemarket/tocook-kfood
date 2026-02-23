@@ -1130,8 +1130,8 @@
   },
   {
     "id": 16,
-    "published": false,
-    "slug": "dalrae-bibimbap",
+    "published": true,
+    "slug": "2026-02-23-dalrae-bibimbap",
     "title": "Wild Chive Bibimbap",
     "titleKo": "달래비빔밥",
     "emoji": "🍚",
@@ -1203,7 +1203,8 @@
       "carbs": "56g",
       "fat": "12g"
     },
-    "tip": "달래의 향이 가장 좋을 때는 3월입니다. Wild chive flavor peaks in March."
+    "tip": "달래의 향이 가장 좋을 때는 3월입니다. Wild chive flavor peaks in March.",
+    "publishDate": "2026-02-23"
   },
   {
     "id": 17,
