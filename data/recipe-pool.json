@@ -1208,8 +1208,8 @@
   },
   {
     "id": 17,
-    "published": false,
-    "slug": "sigeumchi-namul",
+    "published": true,
+    "slug": "2026-02-24-sigeumchi-namul",
     "title": "Korean Seasoned Spinach (Sigeumchi Namul)",
     "titleKo": "시금치나물",
     "emoji": "🥬",
@@ -1277,7 +1277,8 @@
       "carbs": "3g",
       "fat": "3g"
     },
-    "tip": "데친 시금치의 물기를 충분히 제거해야 양념이 잘 배입니다. Squeeze out water well so seasoning absorbs properly."
+    "tip": "데친 시금치의 물기를 충분히 제거해야 양념이 잘 배입니다. Squeeze out water well so seasoning absorbs properly.",
+    "publishDate": "2026-02-24"
   },
   {
     "id": 18,
