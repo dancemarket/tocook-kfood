@@ -1282,8 +1282,8 @@
   },
   {
     "id": 18,
-    "published": false,
-    "slug": "strawberry-bingsu",
+    "published": true,
+    "slug": "2026-02-25-strawberry-bingsu",
     "title": "Korean Strawberry Shaved Ice (Bingsu)",
     "titleKo": "딸기빙수",
     "emoji": "🍨",
@@ -1348,7 +1348,8 @@
       "carbs": "52g",
       "fat": "3g"
     },
-    "tip": "우유를 얼려서 갈면 더 부드러운 빙수가 됩니다. Freeze milk for a creamier shaved ice."
+    "tip": "우유를 얼려서 갈면 더 부드러운 빙수가 됩니다. Freeze milk for a creamier shaved ice.",
+    "publishDate": "2026-02-25"
   },
   {
     "id": 19,
