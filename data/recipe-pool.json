@@ -1353,8 +1353,8 @@
   },
   {
     "id": 19,
-    "published": false,
-    "slug": "ueong-bokkeum",
+    "published": true,
+    "slug": "2026-02-26-ueong-bokkeum",
     "title": "Stir-fried Burdock Root with Beef",
     "titleKo": "소고기 우엉볶음",
     "emoji": "🥘",
@@ -1426,7 +1426,8 @@
       "carbs": "14g",
       "fat": "10g"
     },
-    "tip": "우엉을 아삭하게 먹고 싶으면 볶는 시간을 줄이세요. For crunchier burdock, reduce stir-fry time."
+    "tip": "우엉을 아삭하게 먹고 싶으면 볶는 시간을 줄이세요. For crunchier burdock, reduce stir-fry time.",
+    "publishDate": "2026-02-26"
   },
   {
     "id": 20,
