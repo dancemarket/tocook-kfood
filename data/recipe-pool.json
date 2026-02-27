@@ -1431,8 +1431,8 @@
   },
   {
     "id": 20,
-    "published": false,
-    "slug": "naengi-mandu",
+    "published": true,
+    "slug": "2026-02-27-naengi-mandu",
     "title": "Shepherd's Purse Dumplings (Naengi Mandu)",
     "titleKo": "냉이만두",
     "emoji": "🥟",
@@ -1508,6 +1508,7 @@
       "carbs": "3g",
       "fat": "1g"
     },
-    "tip": "만두소에 당면을 넣으면 식감이 더 좋아집니다. Adding glass noodles to filling improves texture."
+    "tip": "만두소에 당면을 넣으면 식감이 더 좋아집니다. Adding glass noodles to filling improves texture.",
+    "publishDate": "2026-02-27"
   }
 ]
