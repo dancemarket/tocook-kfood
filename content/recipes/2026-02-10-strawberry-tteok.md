@@ -1,53 +1,59 @@
 ---
-title: "Ttalgi-Chamkkae-Saelleodeu"
-subtitle: "Korean Strawberry Sesame Salad"
-titleKo: "딸기 참깨 샐러드"
+title: "Ttalgi-Chapssaltteok (Korean Strawberry Mochi)"
+subtitle: "A Sweet Harmony of Fresh Fruit and Chewy Rice Cake"
+titleKo: "딸기 찹쌀떡"
 date: "2026-02-10"
 emoji: "🍓"
-description: "Fresh seasonal strawberry salad with nutty Korean sesame dressing"
-descriptionKo: "신선한 제철 딸기와 고소한 참깨 드레싱의 건강 샐러드"
+description: "Experience the perfect bite-sized dessert where a whole, juicy spring strawberry is wrapped in sweet red bean paste and a soft, pillowy layer of chewy glutinous rice cake. It's a seasonal treat that marks the peak of strawberry season in Korea."
+descriptionKo: "상큼하고 달콤한 제철 딸기를 통째로 넣은 딸기 찹쌀떡입니다. 달콤한 팥앙금과 쫄깃한 찹쌀 반죽이 어우러져 남녀노소 누구나 좋아하는 최고의 디저트입니다."
 mainIngredient: "Ttalgi (Strawberry)"
 mainIngredientKo: "딸기"
-season: "Late Winter"
+season: "Late Winter to Spring"
 seasonKo: "겨울/봄"
-cookTime: "10 min"
-difficulty: "Easy"
-servings: "2 servings"
-tags: ["딸기", "샐러드", "salad", "healthy", "fresh"]
+cookTime: "30 min"
+difficulty: "Hard"
+servings: "6 pieces"
+tags: ["Strawberry", "Dessert", "Rice Cake", "Gluten Free", "Spring Treat", "Korean Sweets"]
 ingredients:
-  - name: "Strawberry (딸기)"
-    amount: "200g"
-  - name: "Mixed greens (믹스 채소)"
-    amount: "100g"
-  - name: "Sesame seeds (참깨)"
-    amount: "2 tbsp"
-  - name: "Soy sauce (간장)"
-    amount: "1 tbsp"
-  - name: "Sesame oil (참기름)"
-    amount: "1 tbsp"
-  - name: "Vinegar (식초)"
-    amount: "1 tbsp"
-  - name: "Honey (꿀)"
-    amount: "1 tbsp"
+  - name: "Fresh Large Strawberries"
+    amount: "6 pieces"
+  - name: "Glutinous Rice Flour (Chapssal-garu)"
+    amount: "150g"
+  - name: "Red Bean Paste (Anko)"
+    amount: "180g"
+  - name: "Sugar"
+    amount: "30g"
+  - name: "Cornstarch (for dusting)"
+    amount: "1/2 cup"
+  - name: "Water"
+    amount: "180ml"
 steps:
-  - "Wash strawberries (딸기) and slice in half."
-  - "Wash mixed greens and drain well."
-  - "Make dressing: whisk together sesame seeds, soy sauce, sesame oil, vinegar, and honey."
-  - "Arrange greens and strawberries on a plate, drizzle with the sesame dressing."
-  - "Top with extra sesame seeds and serve immediately."
+  - "Strawberry Prep: Wash and dry the strawberries perfectly. Remove the stems. Humidity is the enemy of mochi, so pat them very dry with a paper towel."
+  - "Bean Paste Wrap: Take a small amount of red bean paste and flatten it. Wrap it around each strawberry, leaving just the very tip exposed (or cover completely)."
+  - "The Dough: Mix rice flour, sugar, and water in a microwave-safe bowl. Cover with plastic wrap and microwave for 2 minutes. Stir, then repeat until the dough becomes translucent and sticky."
+  - "Dusting: Generously dust your workspace with cornstarch. Place the hot dough on it. Be careful—it's very hot!"
+  - "Assembly: Cut the dough into 6 pieces. Flatten a piece of dough, place the bean-wrapped strawberry in the center, and pinch the edges to seal. Roll in cornstarch to prevent sticking."
 nutrition:
-  calories: "140 kcal"
-  protein: "4g"
-  carbs: "14g"
-  fat: "8g"
-tip: "Add dressing just before eating to keep the greens fresh and crisp."
+  calories: "185 kcal per piece"
+  protein: "3g"
+  carbs: "42g"
+  fat: "0.5g"
+tip: "Wrap the finished tteok individually in plastic wrap immediately. This keeps them soft and prevents them from drying out at room temperature."
 ---
 
-## Ttalgi-Chamkkae-Saelleodeu
-### Korean Strawberry Sesame Salad · 딸기 참깨 샐러드
+## Spring on Your Tongue: Ttalgi-Chapssaltteok
 
-Fresh seasonal strawberry salad with nutty Korean sesame dressing
+In the months of February and March, Korean department stores and boutique cafes are filled with the vibrant red of fresh strawberries. While eating them plain is wonderful, the **Ttalgi-Chapssaltteok** (also known as Strawberry Mochi) takes the experience to a whole new level. 
 
-### 🍓 Ttalgi (Strawberry · 딸기)
+### Why the world loves Korean Strawberries
+Korean strawberries are renowned globally for being exceptionally sweet, large, and fragrant. They are often referred to as "sugar bombs." Combining this high-sugar fruit with the earthy sweetness of red beans and the neutral, chewy texture of rice creates a "triple threat" of taste and texture.
 
-This recipe features **Ttalgi** (Strawberry), a seasonal ingredient for **Late Winter** in Korea.
+### The Contrast of Textures
+The magic happens when you take a bite. Your teeth first meet the velvety, soft rice cake, then the smooth bean paste, and finally, there is a refreshing "burst" of cold strawberry juice. It is incredibly satisfying and surprisingly light.
+
+### Pro-Tips for success
+1.  **Don't skip the starch:** Glutinous rice dough is incredibly sticky. Dust your hands and the workspace more than you think you need to.
+2.  **Size matters:** Try to pick middle-sized strawberries. If they are too large, they are very difficult to wrap beautifully.
+3.  **Freshness:** These are best eaten within 24 hours. The juice from the strawberry eventually softens the rice cake too much.
+
+Impress your friends with this beautiful, Instagram-worthy Korean dessert!

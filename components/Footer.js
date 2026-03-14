@@ -37,7 +37,8 @@ export default function Footer() {
                 </div>
 
                 <div className="footer-bottom">
-                    <p>© {currentYear} Make K-Food. All rights reserved. Authentic Korean recipes daily 🇰🇷</p>
+                    <p>© {currentYear} Make K-Food. All rights reserved. | <Link href="/privacy" style={{ color: 'inherit', textDecoration: 'underline' }}>Privacy Policy</Link></p>
+                    <p style={{ marginTop: '5px' }}>Authentic Korean recipes daily 🇰🇷</p>
                 </div>
             </div>
         </footer>
