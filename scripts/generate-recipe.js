@@ -187,36 +187,40 @@ function simpleHash(str) {
     return Math.abs(hash);
 }
 
-function generateRecipe() {
+function generateRecipe(numRecipes = 1) {
     const today = new Date();
-    const dateStr = today.toISOString().split('T')[0];
     const month = today.getMonth() + 1;
-
     const ingredients = SEASONAL_INGREDIENTS[month];
-    const pool = fs.existsSync(poolPath) ? JSON.parse(fs.readFileSync(poolPath, 'utf8')) : [];
     
-    // Attempt generation
-    for (let attempt = 0; attempt < 50; attempt++) {
-        const seed = simpleHash(`${dateStr}-${attempt}`);
-        const ingredient = ingredients[seed % ingredients.length];
-        const compatibleMethods = COOKING_METHODS; // Simplified for now
-        const method = compatibleMethods[seed % compatibleMethods.length];
+    // Generate recipes sequentially backwards from today
+    for (let count = 0; count < numRecipes; count++) {
+        const createDate = new Date(today);
+        createDate.setDate(today.getDate() - count);
+        const dateStr = createDate.toISOString().split('T')[0];
 
-        const slug = `${dateStr}-${ingredient.ko}-${method.id}`;
-        if (fs.existsSync(path.join(recipesDir, `${slug}.md`))) continue;
+        // Attempt generation
+        for (let attempt = 0; attempt < 50; attempt++) {
+            const seed = simpleHash(`${dateStr}-${attempt}`);
+            const ingredient = ingredients[seed % ingredients.length];
+            const compatibleMethods = COOKING_METHODS; // Simplified for now
+            const method = compatibleMethods[seed % compatibleMethods.length];
 
-        // Random Narrative Elements
-        const intro = INTROS[seed % INTROS.length](ingredient.rom, ingredient.en);
-        const story = STORIES[seed % STORIES.length](ingredient.rom, ingredient.en, method.romMethod);
+            const safeRom = ingredient.rom.toLowerCase().replace(/[^a-z0-9]/g, '');
+            const slug = `${dateStr}-${safeRom}-${method.id}`;
+            if (fs.existsSync(path.join(recipesDir, `${slug}.md`))) continue;
 
-        const title = method.enTitle(ingredient.rom);
-        const subtitle = method.enSubtitle(ingredient.en);
+            // Random Narrative Elements
+            const intro = INTROS[seed % INTROS.length](ingredient.rom, ingredient.en);
+            const story = STORIES[seed % STORIES.length](ingredient.rom, ingredient.en, method.romMethod);
 
-        const ingredientsMd = method.ingredients(ingredient.ko, ingredient.en)
-            .map(i => `  - name: "${i.name}"\n    amount: "${i.amount}"`).join('\n');
-        const stepsMd = method.steps(ingredient.ko, ingredient.en).map(s => `  - "${s}"`).join('\n');
+            const title = method.enTitle(ingredient.rom);
+            const subtitle = method.enSubtitle(ingredient.en);
 
-        const markdown = `---
+            const ingredientsMd = method.ingredients(ingredient.ko, ingredient.en)
+                .map(i => `  - name: "${i.name}"\n    amount: "${i.amount}"`).join('\n');
+            const stepsMd = method.steps(ingredient.ko, ingredient.en).map(s => `  - "${s}"`).join('\n');
+
+            const markdown = `---
 title: "${title}"
 subtitle: "${subtitle}"
 titleKo: "${method.koTitle(ingredient.ko)}"
@@ -264,10 +268,13 @@ This recipes highlights **${ingredient.rom}**, which is currently in its prime d
 Enjoy your healthy, homemade Korean meal!
 `;
 
-        fs.writeFileSync(path.join(recipesDir, `${slug}.md`), markdown, 'utf8');
-        console.log(`✅ Success: ${title}`);
-        return;
+            fs.writeFileSync(path.join(recipesDir, `${slug}.md`), markdown, 'utf8');
+            console.log(`✅ Success: ${dateStr} - ${title}`);
+            break; // Stop attempt loop once one is created
+        }
     }
 }
 
-generateRecipe();
+const args = process.argv.slice(2);
+const num = parseInt(args[0]) || 1;
+generateRecipe(num);
